@@ -1,0 +1,1001 @@
+e.emp_id,e.name,e.age,e.job_role,e.salary,e.project,e.join_date,e.department,d.location
+4,Eric Owens,46,Developer,82314.45,Omega,1998-11-04,Finance,Chicago
+22,Michael Garcia,33,Engineer,143090.07,Alpha,1991-10-19,Finance,Chicago
+31,Holly Contreras,39,Consultant,129355.47,Beta,1989-07-12,Finance,Chicago
+36,Christopher Moreno,26,Developer,77512.51,Omega,2021-08-27,Finance,Chicago
+39,Stefanie Cantrell,40,Consultant,61963.88,Project4,2008-07-27,Finance,Chicago
+58,Kristin James,36,Consultant,142434.22,Gamma,2000-08-31,Finance,Chicago
+61,Shawn Bennett,50,Manager,92629.56,Delta,1987-02-24,Finance,Chicago
+68,Susan Harris,46,Consultant,126322.27,Project2,1978-12-09,Finance,Chicago
+73,Jeffery Woods,59,Analyst,119642.46,Project1,1971-03-30,Finance,Chicago
+97,Amber Snyder,58,Manager,84684.86,Project6,2007-02-15,Finance,Chicago
+101,Timothy Wilson,47,Analyst,105615.82,Delta,1972-09-23,Finance,Chicago
+105,Rebecca Williams,31,Analyst,110967.62,Project5,2000-03-14,Finance,Chicago
+113,Robert Salazar,43,Engineer,147726.76,Gamma,1985-07-22,Finance,Chicago
+120,Louis Parker,22,Consultant,146528.33,Project1,1983-11-22,Finance,Chicago
+121,Alyssa Williams,22,Engineer,85892.53,Project5,2010-07-15,Finance,Chicago
+122,John Diaz,23,Developer,132962.99,Alpha,1985-10-03,Finance,Chicago
+125,Emily Shaw,34,Consultant,116383.3,Beta,2013-05-22,Finance,Chicago
+128,Cynthia Palmer,50,Developer,147136.81,Project2,2004-10-19,Finance,Chicago
+130,Tiffany Poole,43,Consultant,75476.34,Project1,1985-09-16,Finance,Chicago
+135,Cheryl Jarvis,36,Developer,120078.81,Delta,2021-12-03,Finance,Chicago
+136,Christopher Turner,42,Manager,48708.93,Omega,2023-05-15,Finance,Chicago
+140,Bonnie Mcintosh,53,Analyst,129760.07,Project1,1974-04-23,Finance,Chicago
+143,Ronald King,30,Consultant,48933.43,Project5,2007-04-15,Finance,Chicago
+145,Tiffany Sherman,34,Engineer,74135.41,Beta,2006-09-01,Finance,Chicago
+150,Jessica Padilla,49,Manager,131248.96,Omega,1977-06-17,Finance,Chicago
+152,Annette Lynch,32,Consultant,81280.53,Project5,1998-03-23,Finance,Chicago
+180,Andrew Morales,26,Analyst,118997.59,Gamma,2023-05-09,Finance,Chicago
+181,Courtney Bailey,38,Manager,131183.38,Omega,2000-10-25,Finance,Chicago
+184,Jennifer Nguyen,28,Developer,124135.74,Alpha,1976-02-05,Finance,Chicago
+186,Charles Garza,24,Consultant,103555.68,Gamma,1999-10-12,Finance,Chicago
+187,Allison Gonzales,28,Manager,135039.48,Project5,2019-12-04,Finance,Chicago
+197,Joshua Owens,44,Developer,42934.08,Project5,2006-09-15,Finance,Chicago
+199,Diane Esparza MD,52,Consultant,46475.5,Project3,2006-12-09,Finance,Chicago
+200,Jared Sanders,41,Consultant,102471.35,Delta,1981-05-01,Finance,Chicago
+201,David Hernandez,37,Consultant,119379.77,Omega,1996-12-13,Finance,Chicago
+203,Donna Gomez,25,Developer,97989.06,Project1,2009-05-21,Finance,Chicago
+204,Dawn Hansen,35,Engineer,113337.49,Project4,1988-01-30,Finance,Chicago
+205,Chris Harper,34,Developer,46681.55,Project5,2006-07-18,Finance,Chicago
+238,Colin Brown,22,Consultant,49869.49,Gamma,1976-05-06,Finance,Chicago
+241,Gloria Pugh,38,Engineer,95744.46,Project1,2019-09-06,Finance,Chicago
+250,Harold Andrews,24,Engineer,109614.99,Delta,2001-11-27,Finance,Chicago
+251,Kathleen Woodard,52,Developer,118760.72,Project1,2002-10-13,Finance,Chicago
+256,David Williams,31,Analyst,68678.25,Project1,1971-09-29,Finance,Chicago
+267,Kristie Wilson,42,Manager,87937.41,Delta,1979-04-21,Finance,Chicago
+268,John Jacobs,34,Consultant,72919.4,Project1,1982-02-28,Finance,Chicago
+270,Jasmine Travis,22,Manager,85354.83,Project6,2014-06-07,Finance,Chicago
+272,Lawrence Marks,59,Developer,53865.47,Project6,2022-11-12,Finance,Chicago
+275,Sara Douglas,31,Manager,116806.39,Beta,1988-02-07,Finance,Chicago
+276,Jessica Gonzalez,23,Manager,144279.29,Project5,1991-06-29,Finance,Chicago
+278,Marc Ellis,52,Developer,79208.26,Gamma,2002-03-11,Finance,Chicago
+279,Francisco Cook,30,Manager,111625.76,Project5,1973-01-10,Finance,Chicago
+284,Melissa Stevens,26,Consultant,44873.7,Omega,2001-10-04,Finance,Chicago
+287,Cheryl Schneider,34,Engineer,59151.05,Alpha,2016-10-01,Finance,Chicago
+289,Roberto Henry PhD,48,Developer,98883.28,Alpha,1978-11-11,Finance,Chicago
+293,Jordan Henderson,24,Engineer,63999.55,Alpha,1991-12-14,Finance,Chicago
+296,Gary Randolph,52,Engineer,57493.17,Project3,1996-11-28,Finance,Chicago
+298,Hannah Ellison,34,Analyst,72318.7,Project6,2005-09-05,Finance,Chicago
+299,Patricia Alvarado,51,Developer,51728.26,Delta,1995-03-27,Finance,Chicago
+315,Robert Wolf,27,Analyst,91443.66,Project5,1970-11-28,Finance,Chicago
+320,Lisa Meyer,24,Engineer,101191.27,Project2,2017-09-11,Finance,Chicago
+324,Lydia Wilson,58,Engineer,64373.91,Project6,1990-05-08,Finance,Chicago
+326,Mercedes Olson,48,Engineer,109463.38,Gamma,1970-01-28,Finance,Chicago
+328,Summer Andrade,44,Engineer,66730.16,Omega,1971-12-29,Finance,Chicago
+337,Catherine Bell,49,Engineer,83144.78,Beta,2008-02-03,Finance,Chicago
+339,Richard Carter,34,Manager,41572.86,Project3,1989-10-28,Finance,Chicago
+347,Roger Roberson,42,Manager,92388.82,Delta,2003-09-23,Finance,Chicago
+349,Brandi Martin,50,Manager,119188.42,Alpha,1983-10-17,Finance,Chicago
+354,Zachary Lowery,53,Developer,71845.29,Omega,1977-03-25,Finance,Chicago
+355,Gina Ramos,59,Developer,145744.75,Project5,1983-05-09,Finance,Chicago
+361,Michael Hall,49,Developer,115489.38,Project1,2006-10-12,Finance,Chicago
+369,Kelly James,35,Developer,55240.15,Project3,1985-05-01,Finance,Chicago
+371,Heather Mckenzie,32,Engineer,45321.8,Project4,2021-02-16,Finance,Chicago
+378,Teresa Manning,23,Consultant,132782.96,Omega,1971-10-22,Finance,Chicago
+382,Joshua Brown,31,Developer,50276.68,Project6,1991-03-14,Finance,Chicago
+383,Tina Anderson,44,Engineer,88806.81,Project1,1986-03-21,Finance,Chicago
+387,Sandra Walker,24,Developer,113925.79,Beta,2017-10-12,Finance,Chicago
+398,Sabrina Schneider,54,Analyst,91125.93,Gamma,2024-08-31,Finance,Chicago
+402,Danielle Allen,46,Developer,115228.26,Project2,2010-02-26,Finance,Chicago
+408,Cynthia Pugh,37,Engineer,99886.03,Beta,2003-02-28,Finance,Chicago
+423,Paula Spears,24,Analyst,107482.48,Project3,2002-02-09,Finance,Chicago
+425,Kenneth Patrick,50,Analyst,99700.69,Project3,1992-06-05,Finance,Chicago
+444,Anita Nicholson,31,Analyst,108787.91,Gamma,1976-10-13,Finance,Chicago
+447,Elizabeth Gardner,29,Engineer,126782.95,Alpha,2009-03-21,Finance,Chicago
+448,Katie Lewis,32,Consultant,119988.77,Project6,1997-05-03,Finance,Chicago
+449,Jessica Lee,44,Consultant,138974.29,Delta,2015-06-03,Finance,Chicago
+456,Daniel Mcmillan,36,Analyst,56210.74,Project6,2002-06-01,Finance,Chicago
+464,Jerry Gonzalez,44,Engineer,118925.22,Project3,1996-10-11,Finance,Chicago
+465,Alyssa Ali,32,Engineer,43246.63,Gamma,1978-08-20,Finance,Chicago
+468,James Crosby,22,Developer,104978.78,Beta,1984-09-26,Finance,Chicago
+470,Robert Tate,25,Analyst,84279.46,Omega,1999-09-26,Finance,Chicago
+472,Hunter Jones,59,Engineer,142097.83,Project4,2000-07-28,Finance,Chicago
+474,Dana Warner,53,Analyst,144776.87,Project3,1998-03-05,Finance,Chicago
+478,Misty Perez,45,Manager,75691.57,Project4,1970-02-07,Finance,Chicago
+479,Edwin Ramirez,38,Manager,104207.6,Project3,2022-07-16,Finance,Chicago
+480,William Novak,28,Manager,123109.57,Gamma,1978-03-31,Finance,Chicago
+486,Jermaine Freeman,28,Manager,88561.37,Project1,1985-07-22,Finance,Chicago
+490,Gregory Green,50,Engineer,95970.98,Alpha,1978-04-04,Finance,Chicago
+491,Edward Allen,27,Analyst,103557.73,Alpha,2015-11-22,Finance,Chicago
+493,Anthony Goodwin,52,Engineer,65630.08,Project6,1973-11-18,Finance,Chicago
+494,Stephanie Black,30,Developer,46378.16,Beta,1990-11-16,Finance,Chicago
+508,Charles Singh,45,Manager,71732.77,Delta,1978-07-17,Finance,Chicago
+518,John Holmes,37,Developer,143521.97,Omega,2002-07-08,Finance,Chicago
+519,Jenny Martinez,28,Manager,61755.27,Alpha,2002-04-21,Finance,Chicago
+525,Margaret Hooper,57,Consultant,67413.74,Alpha,2021-04-12,Finance,Chicago
+526,Marissa Kaiser,48,Manager,114885.38,Alpha,1996-10-18,Finance,Chicago
+527,Timothy Sanchez,41,Developer,47371.13,Project1,1992-01-26,Finance,Chicago
+538,Alison Conner,33,Engineer,77993.03,Delta,2001-12-24,Finance,Chicago
+539,Geoffrey Miranda,36,Developer,137050.94,Project4,2005-12-25,Finance,Chicago
+544,Maria Davis,44,Manager,70362.48,Project2,1999-10-09,Finance,Chicago
+550,Brian Peters,42,Engineer,141650.52,Beta,1988-12-23,Finance,Chicago
+551,Paige Morrison,43,Developer,122464.75,Beta,1971-12-19,Finance,Chicago
+555,John Zuniga,28,Developer,58167.93,Beta,2004-02-19,Finance,Chicago
+556,Emma Whitaker,30,Manager,85889.52,Project2,2014-08-20,Finance,Chicago
+564,Brittany Wolf,57,Consultant,81135.93,Project4,1989-01-19,Finance,Chicago
+567,Melinda Mack,56,Consultant,54611.56,Omega,2010-10-16,Finance,Chicago
+568,Adam Sloan,43,Developer,132516.76,Alpha,1999-11-10,Finance,Chicago
+583,Melvin Morris,36,Engineer,40735.2,Project6,2022-04-23,Finance,Chicago
+587,Michael Carroll,34,Developer,144207.47,Project1,1994-02-02,Finance,Chicago
+610,Nancy Matthews,42,Analyst,45987.6,Alpha,1984-12-31,Finance,Chicago
+612,Megan Burton,40,Developer,64771.41,Project5,1970-10-21,Finance,Chicago
+619,Joseph Snyder,51,Developer,50802.41,Project5,1994-09-08,Finance,Chicago
+623,Richard Li,50,Manager,74629.18,Project5,1988-05-13,Finance,Chicago
+632,Jeffrey Davis,51,Engineer,59119.3,Project5,1976-12-23,Finance,Chicago
+652,Kelly Montes,41,Engineer,57140.25,Project5,1976-01-22,Finance,Chicago
+660,Kevin Gay,22,Developer,67519.45,Project6,2024-03-17,Finance,Chicago
+663,Mrs. Katie Hodges,39,Engineer,88053.73,Project6,1980-11-10,Finance,Chicago
+667,Logan Gutierrez,50,Analyst,43159.45,Project4,1971-02-25,Finance,Chicago
+678,David Deleon,32,Analyst,97544.47,Project2,2013-08-18,Finance,Chicago
+682,Paul Elliott,25,Manager,61234.75,Project2,1998-12-14,Finance,Chicago
+683,Thomas Nixon,24,Analyst,83611.28,Alpha,1983-09-12,Finance,Chicago
+690,Nancy Gomez,22,Manager,91618.46,Project1,1982-04-14,Finance,Chicago
+691,April Ferrell,56,Developer,123644.75,Delta,1973-06-09,Finance,Chicago
+696,Barbara Smith,32,Consultant,85955.77,Project6,1972-09-28,Finance,Chicago
+708,Lisa Foster,31,Consultant,103112.16,Project4,1992-02-16,Finance,Chicago
+709,Vicki Velasquez,36,Developer,85165.36,Omega,1971-11-14,Finance,Chicago
+713,John Johnson,40,Engineer,89173.8,Omega,1984-04-08,Finance,Chicago
+714,Michael Grant,43,Engineer,127657.53,Alpha,2003-09-05,Finance,Chicago
+716,Alison Carr,59,Consultant,93287.43,Project5,2021-02-26,Finance,Chicago
+721,Dr. Tiffany Jackson,28,Developer,43724.01,Project1,1998-09-24,Finance,Chicago
+722,Robert Roy,50,Consultant,149413.78,Project4,2011-06-04,Finance,Chicago
+723,Donald Thomas,48,Analyst,65870.8,Project2,2023-04-11,Finance,Chicago
+732,Hannah Wallace,31,Engineer,129813.83,Alpha,2015-06-07,Finance,Chicago
+739,Katelyn Woodard,53,Manager,61731.62,Project5,2000-02-20,Finance,Chicago
+742,Robert Dudley,58,Manager,71225.4,Delta,2000-01-06,Finance,Chicago
+744,Joshua Dixon,37,Engineer,82630.09,Project4,2011-05-13,Finance,Chicago
+747,Angel Fox,26,Manager,43897.87,Delta,2013-07-06,Finance,Chicago
+748,Melissa Richard,38,Manager,98397.27,Gamma,2022-04-01,Finance,Chicago
+751,Kelly Kim,50,Engineer,48236.37,Project2,2018-08-29,Finance,Chicago
+754,Zachary Sutton,42,Consultant,68187.86,Alpha,2017-08-06,Finance,Chicago
+762,Roger Murphy,38,Analyst,140181.76,Omega,2012-12-31,Finance,Chicago
+764,Chad Massey,23,Manager,45001.13,Project2,2024-01-31,Finance,Chicago
+770,Curtis Wright,58,Manager,103204.28,Project4,1980-04-11,Finance,Chicago
+774,Justin Livingston,30,Analyst,135851.85,Project5,2008-09-26,Finance,Chicago
+776,James Rodriguez,48,Developer,96037.1,Project1,2013-01-13,Finance,Chicago
+787,Sabrina Blair,41,Engineer,132430.71,Alpha,2017-11-26,Finance,Chicago
+800,Emily Willis,32,Developer,86448.57,Project6,1994-05-19,Finance,Chicago
+807,Andrew Colon,50,Manager,131468.74,Project1,1970-04-07,Finance,Chicago
+810,Michelle Romero,25,Engineer,102241.52,Project4,1983-03-24,Finance,Chicago
+812,Jason Fox,34,Developer,59979.45,Delta,1987-06-30,Finance,Chicago
+813,Vanessa Miller,56,Manager,69588.26,Project3,2006-04-19,Finance,Chicago
+816,Joan Kelly,45,Manager,71491.61,Project5,1998-05-09,Finance,Chicago
+820,Ryan Shelton,59,Consultant,113498.27,Gamma,2012-01-18,Finance,Chicago
+822,Andrew Smith,52,Analyst,69637.15,Project2,2023-05-22,Finance,Chicago
+828,George Singleton,37,Developer,69016.96,Gamma,1993-03-11,Finance,Chicago
+830,Katelyn Spence,40,Consultant,128735.51,Project4,2008-10-31,Finance,Chicago
+835,Preston Goodwin,35,Manager,51062.77,Project4,1976-05-14,Finance,Chicago
+840,Jennifer Walters,27,Analyst,129326.58,Gamma,1983-03-25,Finance,Chicago
+841,Michael Lester,53,Developer,109177.14,Project3,1973-08-13,Finance,Chicago
+849,Stephen Walsh,58,Manager,68635.18,Project5,1971-02-01,Finance,Chicago
+862,Ralph Waller,56,Manager,124742.7,Project2,1978-01-13,Finance,Chicago
+864,Bryan Lucero,25,Analyst,139253.49,Project1,1974-08-31,Finance,Chicago
+867,Cheyenne Conley DVM,55,Manager,81673.58,Alpha,1970-05-02,Finance,Chicago
+872,William Roberts,28,Engineer,42376.5,Project1,2021-06-19,Finance,Chicago
+873,Steven Cantrell,34,Analyst,127787.49,Project3,2021-07-26,Finance,Chicago
+878,Oscar Sanders,51,Developer,128052.51,Delta,1988-02-03,Finance,Chicago
+890,Thomas Smith,59,Consultant,97063.25,Alpha,2005-11-25,Finance,Chicago
+892,Joseph Gonzalez,36,Analyst,94213.38,Project4,2020-05-29,Finance,Chicago
+895,Lori Lucas,48,Engineer,146141.87,Project2,1981-10-23,Finance,Chicago
+905,Cindy Lane,29,Analyst,58465.09,Project2,2017-09-07,Finance,Chicago
+909,Antonio Harvey,60,Developer,130775.29,Project6,1986-04-10,Finance,Chicago
+911,Robert Williams,56,Consultant,96571.18,Project1,1972-03-03,Finance,Chicago
+915,Stephanie Medina,52,Engineer,53404.51,Alpha,1989-01-25,Finance,Chicago
+919,Brenda Ramsey,38,Manager,46214.15,Beta,1992-04-03,Finance,Chicago
+921,Randall Carney,22,Consultant,42825.78,Gamma,1987-04-12,Finance,Chicago
+922,Margaret Moore,35,Analyst,119609.39,Project6,1981-12-17,Finance,Chicago
+924,Tara Taylor,47,Developer,146284.05,Project6,2013-05-09,Finance,Chicago
+927,Robert Wilson DVM,22,Analyst,108770.85,Project2,1999-04-21,Finance,Chicago
+929,James Armstrong,36,Developer,47782.19,Project2,1994-12-29,Finance,Chicago
+933,Lauren Black,58,Analyst,110883.97,Project1,1987-02-11,Finance,Chicago
+940,Tara Carrillo,52,Consultant,50727.25,Alpha,1998-05-31,Finance,Chicago
+954,Daniel Thomas,41,Manager,48426.43,Project3,1978-11-25,Finance,Chicago
+955,Mark Fernandez,52,Developer,115431.81,Alpha,1978-01-15,Finance,Chicago
+956,William Jones,42,Engineer,120729.74,Project2,2009-08-18,Finance,Chicago
+959,Edward Simpson,44,Analyst,147764.44,Project1,2004-11-04,Finance,Chicago
+962,Krista Hampton,48,Analyst,114054.39,Delta,2006-08-30,Finance,Chicago
+968,Andrea Fischer,37,Analyst,119640.81,Project1,1983-05-04,Finance,Chicago
+975,David Whitehead,53,Analyst,91613.38,Project4,1978-04-21,Finance,Chicago
+976,Lisa Walter,41,Developer,48672.56,Project2,2021-02-06,Finance,Chicago
+983,David Schmidt,38,Analyst,76089.45,Alpha,1994-11-21,Finance,Chicago
+990,David Copeland,40,Manager,52841.06,Alpha,1995-05-22,Finance,Chicago
+993,Paul Berry,34,Analyst,141969.9,Gamma,2021-07-13,Finance,Chicago
+10,Candice Coleman,33,Consultant,135069.56,Project3,2004-05-14,HR,New York
+13,Kimberly Garcia,44,Manager,147164.67,Project1,2017-12-28,HR,New York
+14,Samuel Cook,44,Consultant,100915.99,Project3,1998-01-03,HR,New York
+21,Randy Cox,58,Developer,46611.8,Project2,1974-12-02,HR,New York
+40,Wyatt King,53,Developer,56683.35,Project2,1995-12-04,HR,New York
+55,Kim Cross,50,Consultant,143705.05,Delta,1981-08-11,HR,New York
+60,Michael Jackson,57,Engineer,101684.5,Project6,1994-01-22,HR,New York
+62,Emily Torres,42,Developer,142146.39,Project3,2017-09-07,HR,New York
+88,Lynn Bennett,58,Developer,145814.92,Project1,2006-04-06,HR,New York
+89,Dawn Jones,49,Analyst,132984.47,Beta,1977-06-23,HR,New York
+92,Daniel Miller,54,Engineer,109217.14,Project5,2005-03-24,HR,New York
+95,Brandon Hamilton,51,Developer,49876.69,Project4,2000-05-19,HR,New York
+96,Kari Kelly,32,Engineer,106752.0,Omega,1986-07-12,HR,New York
+99,Jessica Osborne,30,Manager,72698.04,Gamma,1989-10-04,HR,New York
+106,Sara Martin,28,Developer,56108.67,Project5,1995-06-20,HR,New York
+112,Sierra Velasquez,28,Consultant,69917.92,Alpha,1982-01-08,HR,New York
+123,Joshua Mcintosh,44,Manager,78483.25,Beta,1987-04-03,HR,New York
+127,Mr. Sean Thomas,46,Consultant,109201.15,Project1,1986-02-17,HR,New York
+133,Joyce Mathews,44,Analyst,148745.93,Project2,2000-01-05,HR,New York
+151,Patricia Thomas,26,Consultant,80133.81,Project3,1993-04-02,HR,New York
+156,Hannah Kerr,53,Consultant,95763.93,Omega,2018-02-09,HR,New York
+158,Kelly Hanson,29,Engineer,103616.56,Project4,1985-09-28,HR,New York
+171,Mike Gregory,30,Manager,81748.22,Beta,2010-07-08,HR,New York
+175,Maria Davidson,49,Engineer,135223.51,Omega,1997-03-21,HR,New York
+176,Dale Gomez,58,Analyst,97029.23,Project4,2010-07-13,HR,New York
+189,Dawn Reeves,35,Developer,77695.41,Project4,1981-02-13,HR,New York
+190,Rachel Jackson,44,Developer,135516.23,Beta,2009-03-15,HR,New York
+191,Albert House,28,Analyst,130709.5,Delta,1972-01-23,HR,New York
+206,Melanie Avila,57,Manager,43884.44,Project4,1994-12-16,HR,New York
+209,Zachary Newton,46,Developer,125356.46,Gamma,1979-01-18,HR,New York
+211,Jennifer Newman,24,Manager,70443.64,Gamma,1971-09-23,HR,New York
+212,Fernando Perkins,38,Engineer,138076.45,Omega,2010-04-09,HR,New York
+213,Travis Thornton,52,Engineer,71415.71,Alpha,2017-08-16,HR,New York
+214,Keith Nelson,42,Developer,48921.05,Delta,1977-04-18,HR,New York
+218,Joshua Day,47,Manager,105225.08,Alpha,2002-07-19,HR,New York
+219,Lauren Carter,56,Engineer,46758.16,Project1,2016-10-13,HR,New York
+222,Anthony Hess,53,Engineer,67442.81,Omega,2020-03-05,HR,New York
+225,Jessica Allen,46,Analyst,115125.67,Project5,1970-11-03,HR,New York
+227,Lisa Richards,48,Analyst,149610.66,Project5,1990-03-08,HR,New York
+239,Thomas Salinas,26,Developer,116235.71,Alpha,2004-02-08,HR,New York
+245,Marie Farmer,59,Engineer,44900.65,Project4,2008-05-21,HR,New York
+258,Sarah Martin,47,Manager,48640.57,Project6,1992-06-17,HR,New York
+265,Joel Floyd,48,Consultant,134133.85,Project2,2014-12-03,HR,New York
+271,Cheryl Beasley,45,Developer,71675.48,Project5,1978-10-03,HR,New York
+280,Shirley Henry,26,Analyst,65872.87,Project6,1984-03-11,HR,New York
+281,Ryan Mayo,51,Engineer,52369.11,Alpha,1990-01-18,HR,New York
+285,Christopher Torres,27,Analyst,50442.51,Project4,1981-03-07,HR,New York
+292,Maria Smith,58,Manager,80259.98,Project5,2018-04-13,HR,New York
+294,Deanna Gonzalez,40,Consultant,125781.23,Project2,2010-07-11,HR,New York
+311,Mr. Michael Sherman,30,Manager,46145.45,Omega,2022-08-13,HR,New York
+314,Jonathan Stephens,31,Engineer,119126.57,Project2,1985-06-18,HR,New York
+317,Shelby Baker,40,Developer,73076.38,Omega,1974-11-30,HR,New York
+318,Heather King,48,Developer,99848.74,Project2,1988-05-03,HR,New York
+319,Angela Santos,56,Manager,45424.09,Alpha,1998-10-02,HR,New York
+332,Amanda Berry,54,Engineer,139170.17,Project4,1992-11-18,HR,New York
+335,Jose Powers,38,Consultant,121193.84,Project6,2015-01-09,HR,New York
+340,Rachael Gray,33,Manager,98014.25,Project3,1996-02-10,HR,New York
+343,Amanda Simmons,24,Engineer,139204.78,Project4,1976-04-22,HR,New York
+348,Rachel Walsh,47,Analyst,80654.17,Alpha,1976-02-04,HR,New York
+356,Joseph Finley,52,Analyst,142228.51,Project5,2008-06-21,HR,New York
+357,Nicole Carr,53,Consultant,52607.23,Alpha,1993-05-28,HR,New York
+362,Craig Walker,51,Manager,142744.93,Gamma,2020-07-30,HR,New York
+363,Jesse Clarke,31,Manager,71328.88,Omega,2021-08-06,HR,New York
+367,Joseph Frank,50,Engineer,116199.27,Project5,2025-01-01,HR,New York
+368,Robert Allen,41,Analyst,96944.39,Delta,2002-05-02,HR,New York
+375,Jack Martinez,51,Developer,118156.56,Delta,1975-11-29,HR,New York
+385,Donna Owen,29,Engineer,147552.92,Project3,1998-04-26,HR,New York
+388,Edward Dennis,46,Engineer,135061.21,Beta,2011-02-05,HR,New York
+393,Jamie Lucero,34,Engineer,55008.74,Alpha,1970-11-19,HR,New York
+394,Samuel Newman,40,Engineer,127446.33,Beta,1993-08-30,HR,New York
+400,Samuel Robinson,53,Developer,127058.35,Project6,2004-03-09,HR,New York
+413,Stephanie Archer,35,Analyst,138651.57,Omega,1998-07-19,HR,New York
+415,Robert Ho,25,Analyst,114401.23,Project6,1973-01-10,HR,New York
+421,Jerry Lee,24,Consultant,49064.53,Gamma,1989-07-25,HR,New York
+424,Anthony Pennington,49,Analyst,81252.81,Project5,1982-03-28,HR,New York
+426,Connie Patton,46,Manager,141357.09,Project3,2016-06-23,HR,New York
+428,Carmen Hensley,53,Engineer,64276.34,Project6,2020-05-29,HR,New York
+431,Samuel Terrell,56,Engineer,86773.5,Project2,1991-06-24,HR,New York
+435,Troy Ryan,34,Consultant,46794.52,Project1,1994-09-13,HR,New York
+438,Brittany Fritz,57,Engineer,100018.08,Delta,1995-08-28,HR,New York
+454,Frank Gonzalez,27,Engineer,144701.1,Project5,1978-05-08,HR,New York
+459,Larry Shaw,50,Manager,128939.48,Gamma,1977-03-17,HR,New York
+460,Julie Dixon,45,Manager,88027.68,Alpha,1972-07-09,HR,New York
+467,Matthew Stuart,23,Consultant,93976.34,Alpha,2020-11-09,HR,New York
+473,Gabriel Singh,52,Engineer,109523.35,Project3,2023-03-12,HR,New York
+481,Eric Russo,31,Consultant,121566.32,Project4,2012-12-08,HR,New York
+484,Jennifer Greer,43,Engineer,140432.51,Project6,1974-05-24,HR,New York
+488,Michael Ortega,27,Engineer,135928.25,Alpha,2022-10-24,HR,New York
+495,Ronald Wilson,23,Engineer,122105.76,Omega,2014-10-03,HR,New York
+496,James Buchanan,56,Engineer,139968.32,Omega,1983-09-04,HR,New York
+498,Anna Rogers,48,Developer,127118.17,Gamma,1981-10-01,HR,New York
+511,Danielle Tyler,42,Manager,58252.46,Delta,1993-10-15,HR,New York
+512,Randy Ali,29,Manager,85058.66,Project6,1988-04-22,HR,New York
+513,William Le,28,Analyst,88317.62,Omega,2010-06-05,HR,New York
+514,Mary Martin,26,Analyst,115282.89,Project5,1998-02-10,HR,New York
+521,Michele Wyatt,45,Developer,100415.08,Beta,1983-10-09,HR,New York
+523,Richard Palmer,28,Developer,149305.22,Project4,2007-04-05,HR,New York
+536,Tiffany Mckay,60,Analyst,116885.01,Project2,1998-09-18,HR,New York
+537,Michelle Williams,47,Consultant,56811.01,Project4,2024-12-25,HR,New York
+552,Kathryn Foster,27,Engineer,54599.69,Project6,1987-11-01,HR,New York
+553,Amy Short,29,Engineer,63130.57,Gamma,1988-04-24,HR,New York
+557,Jacob Rose,59,Manager,46558.67,Project3,1984-03-01,HR,New York
+565,Elizabeth Cole,59,Consultant,144842.56,Beta,1999-07-29,HR,New York
+572,Joseph Edwards,29,Consultant,43180.47,Project2,2013-11-06,HR,New York
+573,Kathleen Stewart,51,Developer,100796.28,Delta,1999-02-08,HR,New York
+579,Patricia Velazquez,57,Developer,103656.79,Project4,2005-11-01,HR,New York
+580,Joseph Ward,22,Engineer,76005.19,Project6,1982-04-08,HR,New York
+588,Paul West,39,Consultant,80328.04,Gamma,1979-04-14,HR,New York
+590,Donna Ryan,30,Consultant,56031.88,Delta,2016-10-18,HR,New York
+609,Phillip Lee,38,Developer,145203.34,Project4,2004-10-11,HR,New York
+611,Ian Hill,60,Consultant,57160.45,Project3,2022-04-26,HR,New York
+613,Theresa King,42,Analyst,77135.75,Alpha,1994-08-29,HR,New York
+620,Lauren Johnson,45,Engineer,79102.77,Gamma,1999-03-25,HR,New York
+622,William George,37,Consultant,48047.87,Project1,2007-06-15,HR,New York
+625,Angela Walker,55,Consultant,143442.11,Gamma,2014-03-01,HR,New York
+628,Daryl Reid,50,Consultant,42679.67,Project6,1981-10-08,HR,New York
+636,Sonya Guzman,37,Consultant,85182.6,Project3,1991-08-07,HR,New York
+645,Dana Smith,52,Engineer,126771.19,Project6,1985-04-18,HR,New York
+646,Brittany Yang,43,Engineer,108360.72,Gamma,2008-11-07,HR,New York
+647,Patrick Knight,22,Developer,81955.88,Project5,1981-05-03,HR,New York
+649,Tara Hines,48,Developer,45270.31,Project3,1971-06-24,HR,New York
+651,Robert Olson,48,Developer,44897.23,Alpha,1970-05-20,HR,New York
+654,Dr. Tammy Davis,25,Developer,140853.76,Alpha,1980-03-20,HR,New York
+655,Beth Dawson,55,Manager,93999.45,Project5,1995-10-01,HR,New York
+656,Latasha Harrison MD,50,Analyst,107279.44,Project2,2011-09-08,HR,New York
+657,Stephanie Conrad,37,Developer,73138.03,Delta,2014-06-23,HR,New York
+664,Cathy Frost,43,Engineer,128785.94,Project3,1977-04-24,HR,New York
+670,Ryan Campbell,45,Consultant,63543.12,Omega,2019-09-01,HR,New York
+672,Pedro Stephens,56,Engineer,96984.59,Project4,1993-12-09,HR,New York
+676,Alison Daniels,58,Analyst,44184.13,Project6,2009-12-28,HR,New York
+684,Deborah Cameron,55,Manager,128543.62,Project2,2014-12-14,HR,New York
+688,Carrie Henderson,23,Developer,130448.1,Project4,2013-04-14,HR,New York
+693,Nancy Nelson,30,Consultant,43175.3,Project6,1973-01-18,HR,New York
+712,Arthur Gutierrez Jr.,52,Consultant,131065.79,Project3,1998-09-25,HR,New York
+717,Valerie Hooper,34,Developer,149178.56,Alpha,2020-08-30,HR,New York
+719,Chase Briggs,51,Consultant,140814.92,Omega,2018-10-27,HR,New York
+728,Gary Johnson,51,Developer,141532.76,Alpha,1981-08-31,HR,New York
+733,Dennis Fernandez,35,Developer,84225.27,Beta,2004-07-29,HR,New York
+752,Connie Clark MD,35,Engineer,134725.59,Project5,2014-03-08,HR,New York
+756,Hector Robinson,51,Analyst,42981.77,Project4,2009-04-21,HR,New York
+758,Joseph Arias,47,Manager,119220.81,Delta,1991-06-18,HR,New York
+766,Christopher Cook,35,Analyst,128796.69,Gamma,2018-02-08,HR,New York
+772,Sherri Marks,33,Engineer,144646.54,Delta,1978-12-14,HR,New York
+773,Ashley Larsen,30,Engineer,92657.49,Omega,2013-02-17,HR,New York
+775,Jacob Sutton,40,Manager,142370.4,Project5,1972-09-24,HR,New York
+777,David Orozco,60,Developer,111164.15,Project1,1981-11-23,HR,New York
+778,Mary Roman,48,Manager,71131.01,Project6,1992-08-31,HR,New York
+780,Courtney Black,42,Developer,132749.66,Beta,1979-12-28,HR,New York
+781,Elizabeth Smith,40,Developer,49998.98,Project6,1998-03-13,HR,New York
+789,Austin Kennedy,40,Consultant,44879.07,Gamma,1972-05-17,HR,New York
+790,Jacob Sutton,28,Analyst,127960.7,Project5,1985-05-23,HR,New York
+802,Albert Perry,59,Engineer,85370.83,Project2,2014-05-15,HR,New York
+814,Joe Bowman,23,Engineer,55148.51,Project6,2006-03-06,HR,New York
+823,Zachary Banks,49,Consultant,50904.86,Project6,1971-12-06,HR,New York
+829,Kimberly Roach,51,Manager,113675.82,Project4,2017-07-11,HR,New York
+833,Catherine Chan,47,Analyst,131431.96,Beta,1993-12-15,HR,New York
+838,Cameron Joseph,42,Analyst,147276.16,Project3,1970-07-22,HR,New York
+839,Jason Petersen,44,Developer,128477.33,Delta,1997-03-23,HR,New York
+844,Dawn Jackson,58,Engineer,51045.18,Gamma,1977-04-10,HR,New York
+847,Corey West,27,Manager,51921.2,Project3,1978-12-12,HR,New York
+848,Megan Howard,38,Consultant,54828.65,Beta,2009-10-21,HR,New York
+853,Sara Mcdonald,29,Analyst,146409.31,Omega,2023-10-13,HR,New York
+860,Christina Riley,54,Consultant,115864.48,Project1,2023-05-05,HR,New York
+865,Andrew Hoffman,30,Engineer,141916.33,Project1,2002-12-11,HR,New York
+868,Dennis Robinson,33,Consultant,80449.91,Beta,2004-06-30,HR,New York
+876,Victoria Phillips,45,Engineer,43163.48,Project1,1996-02-01,HR,New York
+881,Michael Clark,43,Engineer,127725.23,Beta,1984-06-24,HR,New York
+885,Susan Booth,52,Consultant,145635.81,Omega,2007-07-07,HR,New York
+887,Shelly Boyer,43,Consultant,45300.45,Project2,1996-04-11,HR,New York
+898,Tara Krause,37,Developer,55896.73,Alpha,1977-03-11,HR,New York
+903,Zachary Vargas,58,Manager,43564.23,Project5,1984-11-29,HR,New York
+906,Christopher Williams,29,Analyst,138950.89,Project4,1998-10-05,HR,New York
+910,Diane Morris,53,Developer,121822.83,Project2,2021-09-03,HR,New York
+928,Gary Chan,36,Engineer,53220.66,Alpha,2011-11-29,HR,New York
+932,John Morris,52,Engineer,50543.82,Omega,2016-08-31,HR,New York
+934,Diana Molina,36,Consultant,58635.34,Omega,2016-01-25,HR,New York
+941,Glenn Smith,46,Engineer,127669.28,Beta,1981-02-03,HR,New York
+958,Joseph Brown,60,Analyst,119296.36,Delta,2001-12-30,HR,New York
+963,Joseph Leonard,34,Manager,76510.88,Delta,2017-11-10,HR,New York
+964,Emma Knight,34,Analyst,139469.83,Project2,2021-11-10,HR,New York
+965,Dr. Kara Thomas,33,Engineer,101454.96,Project5,1983-10-18,HR,New York
+967,Mark Smith,53,Analyst,43770.23,Project1,2002-11-30,HR,New York
+977,Nicole Reyes,30,Developer,122488.27,Project2,1970-09-11,HR,New York
+979,Lori Johnson,55,Developer,74124.1,Alpha,1991-01-28,HR,New York
+985,Judy Reed,23,Analyst,67167.44,Project5,2017-10-29,HR,New York
+997,Keith Smith,54,Manager,102905.13,Project5,1971-08-18,HR,New York
+1000,Jennifer Hill,23,Manager,136875.72,Alpha,2012-10-08,HR,New York
+3,Stephen Phillips,51,Consultant,85295.21,Beta,1986-07-08,IT,San Francisco
+9,Heather James,33,Engineer,148601.89,Beta,1993-04-16,IT,San Francisco
+15,Michael Townsend,30,Analyst,102300.97,Omega,1996-11-28,IT,San Francisco
+17,Nicole Walker,34,Engineer,60565.39,Project6,1986-08-12,IT,San Francisco
+19,Michael Hughes,48,Manager,81828.33,Project6,1972-03-12,IT,San Francisco
+26,Patrick Garrett,22,Engineer,142596.65,Project4,2010-10-23,IT,San Francisco
+27,Travis Watson,37,Consultant,59323.58,Omega,1972-07-06,IT,San Francisco
+28,Mary Burke MD,52,Analyst,127085.1,Omega,2022-01-18,IT,San Francisco
+33,Peter Hernandez,38,Consultant,111976.16,Project5,2022-03-10,IT,San Francisco
+38,Jose Fischer,40,Developer,114898.81,Omega,1980-10-05,IT,San Francisco
+41,Leslie Baird,49,Manager,133477.72,Gamma,1979-05-03,IT,San Francisco
+42,Ashley Kirby,51,Developer,74326.09,Omega,2001-01-16,IT,San Francisco
+45,Nina Franklin,60,Consultant,143713.08,Project3,2006-08-04,IT,San Francisco
+48,Jennifer Potts,38,Engineer,83830.82,Delta,2010-10-18,IT,San Francisco
+49,Bridget Reeves,55,Manager,88417.83,Delta,1977-01-24,IT,San Francisco
+50,Shane Gonzalez,46,Analyst,106589.64,Alpha,1983-11-20,IT,San Francisco
+56,Tyler Baker,31,Consultant,74429.62,Gamma,1990-10-04,IT,San Francisco
+57,Mrs. Courtney Poole MD,36,Consultant,146872.18,Beta,2011-08-18,IT,San Francisco
+64,Sonya Clark,52,Engineer,94405.2,Project4,1987-02-21,IT,San Francisco
+65,Whitney Garrett,22,Engineer,58186.4,Project4,1985-05-01,IT,San Francisco
+67,Taylor Ramirez,24,Developer,62734.98,Project1,1996-03-09,IT,San Francisco
+69,Steven Price,22,Developer,106274.44,Omega,1991-06-11,IT,San Francisco
+70,Kristy Chase,55,Manager,47923.22,Project4,2007-07-17,IT,San Francisco
+79,Suzanne Blake,48,Consultant,103061.53,Project4,2001-01-11,IT,San Francisco
+82,Scott Schroeder,33,Developer,71531.68,Gamma,1971-05-26,IT,San Francisco
+84,Cassidy Wheeler,43,Consultant,79163.91,Project1,1981-12-02,IT,San Francisco
+85,Gabriel Mckinney,58,Engineer,92761.32,Omega,1984-12-16,IT,San Francisco
+87,Emily Sawyer,37,Consultant,126154.11,Project2,1979-12-11,IT,San Francisco
+94,James Smith,26,Developer,72741.05,Beta,1972-01-12,IT,San Francisco
+102,Ronald Bentley,29,Manager,145701.49,Project5,2008-05-06,IT,San Francisco
+104,Edward Clark,24,Analyst,91096.64,Beta,1972-07-13,IT,San Francisco
+107,Jennifer Baker,46,Developer,65134.74,Project1,1975-09-07,IT,San Francisco
+108,Katie Fisher,25,Developer,120703.65,Project1,1971-12-11,IT,San Francisco
+110,Stephanie Perez DDS,54,Manager,118161.55,Delta,1998-07-03,IT,San Francisco
+111,Nancy Christensen,34,Manager,107564.03,Project1,1976-04-05,IT,San Francisco
+114,Mr. Jack Hernandez,42,Analyst,146669.98,Project2,2004-04-26,IT,San Francisco
+115,Joseph Webb,29,Consultant,119103.53,Project4,2016-09-27,IT,San Francisco
+116,Mary Gonzalez,26,Developer,116963.37,Project1,2003-08-25,IT,San Francisco
+118,Ryan Perkins,57,Consultant,40111.09,Alpha,2024-02-28,IT,San Francisco
+124,Joan Joseph,27,Consultant,100136.09,Beta,1994-06-24,IT,San Francisco
+131,Amber Mills,56,Analyst,89392.31,Beta,1987-05-09,IT,San Francisco
+138,Walter Barton,40,Engineer,65862.38,Gamma,1995-09-26,IT,San Francisco
+139,Jon Anderson PhD,40,Developer,86661.74,Gamma,1982-07-03,IT,San Francisco
+141,David Craig,34,Analyst,103812.18,Alpha,1977-03-25,IT,San Francisco
+142,Daniel Higgins,50,Manager,90289.97,Project1,2004-12-10,IT,San Francisco
+147,Mrs. Natasha Mills,59,Consultant,73323.15,Delta,1981-05-25,IT,San Francisco
+157,William Morrison,29,Analyst,107373.21,Delta,2024-07-19,IT,San Francisco
+160,Richard Webb,52,Developer,79515.89,Project1,2014-06-11,IT,San Francisco
+161,Mrs. Joy Griffin,22,Analyst,72006.23,Delta,2005-12-01,IT,San Francisco
+162,Erik Dawson,31,Engineer,98107.6,Alpha,1976-10-03,IT,San Francisco
+163,Michael Moreno,53,Manager,122760.93,Beta,1984-09-18,IT,San Francisco
+164,Angela Valdez,38,Developer,81306.46,Project5,1973-04-01,IT,San Francisco
+166,Chloe King,54,Developer,104324.98,Alpha,2008-08-01,IT,San Francisco
+167,Matthew Edwards,57,Engineer,48660.67,Project1,1977-08-22,IT,San Francisco
+168,Daniel King,47,Developer,140503.68,Project5,2009-03-18,IT,San Francisco
+169,Aaron Zuniga,52,Consultant,92233.11,Delta,2010-12-30,IT,San Francisco
+172,Cynthia Smith,31,Consultant,125188.86,Project6,2000-08-12,IT,San Francisco
+174,Anne Howard,45,Analyst,97986.21,Omega,1971-01-25,IT,San Francisco
+177,Catherine Lopez,58,Developer,107747.27,Beta,2017-08-10,IT,San Francisco
+178,Nicholas Nelson,30,Consultant,106184.96,Project2,2005-05-11,IT,San Francisco
+179,Erika Sanders,22,Consultant,135060.7,Project4,1972-11-05,IT,San Francisco
+182,Shane Rodriguez,34,Engineer,130633.08,Gamma,1978-01-19,IT,San Francisco
+193,Gregory Hudson,23,Consultant,99841.86,Project2,1978-07-28,IT,San Francisco
+202,Brittney Hernandez,53,Analyst,56051.6,Omega,1994-12-01,IT,San Francisco
+217,Adam Turner,30,Developer,98820.4,Omega,2021-05-04,IT,San Francisco
+226,Sarah Cummings,42,Developer,82741.47,Beta,1987-01-17,IT,San Francisco
+231,Ashley Lucas,32,Engineer,125749.31,Project4,1996-09-13,IT,San Francisco
+235,Ashley Curtis,57,Analyst,49137.78,Gamma,1987-05-10,IT,San Francisco
+242,Danielle Scott,23,Consultant,112795.02,Project5,2012-12-22,IT,San Francisco
+252,Catherine Kim,52,Engineer,113457.52,Project1,2021-03-15,IT,San Francisco
+255,Jeffrey Romero,29,Developer,115849.12,Delta,1979-12-28,IT,San Francisco
+259,Larry Evans,55,Manager,95798.35,Project3,2009-04-11,IT,San Francisco
+264,Mark Boone,37,Analyst,132595.78,Delta,2009-07-25,IT,San Francisco
+273,Danielle Jordan,25,Consultant,42935.68,Project2,2016-12-26,IT,San Francisco
+277,Claire Mcfarland,53,Consultant,55262.79,Project2,1981-02-06,IT,San Francisco
+286,Patrick Nelson,27,Consultant,142031.01,Delta,1979-08-04,IT,San Francisco
+290,Robert Martin,28,Engineer,143693.25,Project2,1972-12-26,IT,San Francisco
+291,Christina Owen,40,Developer,114914.36,Project1,1974-11-19,IT,San Francisco
+300,Richard Brewer,24,Consultant,93959.55,Beta,2007-01-16,IT,San Francisco
+302,Angela Henry,37,Manager,120773.07,Alpha,2024-09-07,IT,San Francisco
+303,Melanie Mendez,27,Consultant,47003.55,Project6,1979-05-04,IT,San Francisco
+306,Derek Gomez,32,Manager,79450.75,Project4,2012-02-17,IT,San Francisco
+310,Allison Simpson,48,Consultant,148111.59,Project2,1989-03-21,IT,San Francisco
+312,Shannon Nguyen,36,Engineer,76325.86,Gamma,1991-03-16,IT,San Francisco
+327,Brandon White,34,Analyst,102872.99,Project4,2012-12-07,IT,San Francisco
+330,Justin Henry,43,Manager,86330.47,Project4,1992-12-02,IT,San Francisco
+331,Sheri Gomez,23,Analyst,58270.13,Beta,2008-11-23,IT,San Francisco
+333,Matthew Farmer,54,Manager,79732.94,Project2,2020-05-08,IT,San Francisco
+338,Gina Johnson,34,Engineer,144797.74,Project6,2007-03-12,IT,San Francisco
+342,Carlos Douglas,24,Analyst,58698.69,Project3,2006-03-17,IT,San Francisco
+344,Daisy House,27,Engineer,126967.89,Project4,1980-03-01,IT,San Francisco
+350,Donald Knapp,54,Analyst,117579.46,Project1,1984-11-06,IT,San Francisco
+351,Matthew Pacheco,54,Analyst,124476.17,Project4,1978-02-24,IT,San Francisco
+353,Clayton Johnson,60,Engineer,119240.77,Project3,1987-07-13,IT,San Francisco
+376,Ronald Vasquez,35,Engineer,138553.52,Delta,2020-01-02,IT,San Francisco
+381,Michael Hoffman,57,Developer,85492.54,Omega,1989-12-27,IT,San Francisco
+391,James Simmons,48,Developer,140280.69,Project2,1976-07-06,IT,San Francisco
+397,Kyle Gibson,22,Analyst,148476.87,Project4,2009-05-24,IT,San Francisco
+401,Anthony Anderson,36,Analyst,57299.59,Gamma,2024-03-14,IT,San Francisco
+405,Andrea Castro,55,Manager,146905.19,Project5,1984-01-10,IT,San Francisco
+410,Joshua Mcdaniel,60,Manager,44646.51,Project6,1987-09-13,IT,San Francisco
+412,Barbara Hudson,59,Engineer,127024.22,Project2,2007-03-02,IT,San Francisco
+417,Thomas Sanchez,30,Consultant,144995.09,Beta,1985-03-08,IT,San Francisco
+418,Jason Sandoval,50,Developer,76146.68,Omega,1985-02-24,IT,San Francisco
+419,Michael Russell,35,Engineer,52553.02,Project2,1995-08-19,IT,San Francisco
+427,Michael Donovan,35,Developer,106879.31,Project4,2006-06-26,IT,San Francisco
+429,Rachel Miller,31,Engineer,63903.75,Project5,1983-12-24,IT,San Francisco
+437,Karen Castro,45,Analyst,83884.5,Project3,2002-09-13,IT,San Francisco
+440,Tara Lopez,58,Analyst,41645.15,Gamma,2000-02-24,IT,San Francisco
+441,Dennis Leonard,32,Analyst,49995.04,Project5,2020-09-13,IT,San Francisco
+443,Teresa Hensley,33,Manager,136499.89,Project6,2012-12-02,IT,San Francisco
+452,Laura Moore,24,Developer,69177.1,Project1,1971-12-05,IT,San Francisco
+453,Eric Fitzgerald,52,Developer,62284.43,Project2,2007-06-13,IT,San Francisco
+455,Carlos Williams,31,Manager,136399.7,Gamma,1985-12-30,IT,San Francisco
+466,John Cooper,49,Analyst,111095.99,Project4,1989-10-30,IT,San Francisco
+469,Leah Howell,40,Engineer,110056.63,Alpha,1991-01-22,IT,San Francisco
+476,John Davis,35,Developer,83625.53,Project2,1982-04-13,IT,San Francisco
+482,Jennifer Mcknight,33,Engineer,44897.05,Project3,1990-12-26,IT,San Francisco
+485,Allen Roberts,25,Manager,114929.36,Beta,2018-01-25,IT,San Francisco
+499,Melissa Macdonald,39,Manager,111599.95,Project1,1985-04-19,IT,San Francisco
+504,Julia Andrews,46,Manager,142408.01,Project6,1999-01-07,IT,San Francisco
+509,Jonathan Delgado,43,Manager,86544.94,Gamma,1978-04-25,IT,San Francisco
+510,Angela Reid,37,Developer,120851.61,Project5,2014-02-18,IT,San Francisco
+517,Dennis Campbell,28,Manager,62788.43,Alpha,1986-05-20,IT,San Francisco
+522,Jennifer Griffin,54,Manager,88616.12,Beta,1993-01-07,IT,San Francisco
+524,Deborah Allen,58,Consultant,94471.29,Project2,1995-03-21,IT,San Francisco
+529,Heather Smith,34,Consultant,48322.8,Project5,1974-06-16,IT,San Francisco
+533,Erin Bradford,40,Analyst,99561.31,Project5,1980-01-16,IT,San Francisco
+543,Kristina Gomez,23,Engineer,89420.27,Delta,1994-12-20,IT,San Francisco
+546,Evan Key,46,Developer,69548.0,Beta,2019-04-16,IT,San Francisco
+561,David Skinner,54,Developer,117606.94,Alpha,1983-03-07,IT,San Francisco
+563,Lisa Adams,31,Developer,117370.03,Project5,1999-08-31,IT,San Francisco
+581,Rhonda Blackburn,23,Engineer,123309.67,Project6,2005-09-02,IT,San Francisco
+582,Morgan Taylor,24,Consultant,48644.57,Delta,1975-06-08,IT,San Francisco
+591,Belinda Woods,57,Engineer,118345.91,Delta,1980-11-03,IT,San Francisco
+595,Michelle Mccall,36,Engineer,121014.83,Gamma,1979-08-18,IT,San Francisco
+598,Penny Brown,58,Analyst,94240.21,Alpha,1984-09-25,IT,San Francisco
+600,Stephanie Harper,59,Developer,72062.97,Delta,1972-11-17,IT,San Francisco
+601,Aaron Sanchez,49,Engineer,96570.43,Beta,2008-09-01,IT,San Francisco
+602,Sheila Molina,46,Developer,110669.49,Omega,1986-04-10,IT,San Francisco
+604,Jacob Diaz,49,Developer,131758.95,Gamma,1993-11-07,IT,San Francisco
+605,Rebecca Murphy,29,Developer,106572.19,Alpha,1982-01-25,IT,San Francisco
+606,Brenda Wilson,52,Consultant,52132.29,Delta,1986-11-08,IT,San Francisco
+607,Annette Parker,25,Analyst,43136.25,Gamma,1978-08-06,IT,San Francisco
+629,Reginald Stewart,32,Engineer,138164.92,Alpha,2019-08-09,IT,San Francisco
+631,Robert Lee,46,Developer,74546.44,Project1,1987-05-07,IT,San Francisco
+634,Dr. Christopher Sanchez,30,Developer,113227.88,Project6,2021-09-25,IT,San Francisco
+638,Kimberly Quinn,49,Engineer,141434.48,Alpha,1974-11-09,IT,San Francisco
+639,Jennifer Adams,52,Engineer,64921.31,Project5,2012-10-26,IT,San Francisco
+640,Ashlee Wise,26,Consultant,116080.06,Project2,1997-05-24,IT,San Francisco
+641,David Hernandez,60,Manager,137476.61,Project5,2007-10-18,IT,San Francisco
+642,Oscar Henderson,29,Analyst,79432.82,Project1,1987-08-15,IT,San Francisco
+643,Lori Brown,48,Developer,56239.04,Alpha,2007-01-11,IT,San Francisco
+648,Jonathan Anthony,56,Manager,61470.82,Alpha,1990-05-13,IT,San Francisco
+662,Duane Woods,59,Engineer,89452.92,Delta,1991-02-26,IT,San Francisco
+666,Lisa Rodriguez,45,Consultant,61716.03,Project5,2012-09-19,IT,San Francisco
+669,Melissa Jackson,60,Analyst,75059.37,Project1,1982-01-26,IT,San Francisco
+677,Randy Dominguez,38,Consultant,95519.85,Project1,1998-07-27,IT,San Francisco
+685,Cheryl Jones,40,Developer,119127.21,Project1,2014-06-09,IT,San Francisco
+687,Roger Williams,30,Consultant,95122.65,Gamma,1991-10-08,IT,San Francisco
+689,Clifford Scott MD,35,Engineer,45361.26,Project2,1974-06-06,IT,San Francisco
+697,Jessica Johnson,60,Developer,40465.4,Alpha,1988-09-07,IT,San Francisco
+700,Christopher Ramos,57,Engineer,51874.03,Project4,2017-03-16,IT,San Francisco
+711,Amber Tucker,27,Analyst,62047.34,Project3,1997-01-30,IT,San Francisco
+725,David Willis,51,Developer,140065.24,Project2,1994-04-27,IT,San Francisco
+726,Dylan Smith,37,Analyst,132396.67,Project2,2018-12-02,IT,San Francisco
+727,Julie Williamson,37,Analyst,50095.27,Project2,1974-08-06,IT,San Francisco
+735,Thomas Jackson,34,Analyst,148284.34,Project2,2013-05-07,IT,San Francisco
+736,Christopher Davis,53,Developer,48971.89,Gamma,1995-01-18,IT,San Francisco
+737,Derek Ramirez,60,Analyst,142736.62,Project2,1984-09-07,IT,San Francisco
+749,Christina Johnson,29,Analyst,86954.0,Project4,2018-12-08,IT,San Francisco
+753,Jonathan Miller,44,Engineer,88810.38,Omega,1999-09-12,IT,San Francisco
+759,Terri Kennedy,34,Engineer,48178.6,Alpha,2023-09-25,IT,San Francisco
+779,Leah Carpenter,40,Developer,76978.97,Project4,2011-04-02,IT,San Francisco
+783,Lisa Munoz,57,Engineer,118782.32,Omega,1993-05-24,IT,San Francisco
+797,Laura Hanna,56,Engineer,49948.69,Project4,1970-08-21,IT,San Francisco
+798,Robert Anderson,56,Manager,114503.36,Beta,2014-08-02,IT,San Francisco
+804,Joshua Campos,43,Analyst,85628.49,Omega,2009-01-28,IT,San Francisco
+808,Adam Fischer,43,Manager,104116.09,Omega,1995-03-11,IT,San Francisco
+811,Heather Cooper,45,Developer,87856.74,Project3,1986-06-09,IT,San Francisco
+817,Cassandra Alvarez,26,Manager,82135.11,Project3,2003-07-04,IT,San Francisco
+818,Michael Frank,32,Developer,143919.3,Project5,1991-07-03,IT,San Francisco
+821,Caitlin Vargas,37,Developer,81009.07,Alpha,1992-02-24,IT,San Francisco
+834,Joshua Glenn,49,Analyst,43748.97,Delta,1978-12-13,IT,San Francisco
+843,Andrew Crawford,49,Manager,130609.05,Project3,2009-10-11,IT,San Francisco
+845,William Graves,60,Manager,77705.03,Omega,2024-07-29,IT,San Francisco
+846,Dakota Moore,23,Analyst,118961.97,Project6,1979-08-24,IT,San Francisco
+850,Alexis Lee,23,Engineer,40680.84,Alpha,1980-08-05,IT,San Francisco
+855,Terry Douglas,44,Consultant,54597.53,Alpha,2000-10-01,IT,San Francisco
+858,Andrea Mccoy,42,Consultant,96386.8,Project4,1974-12-28,IT,San Francisco
+861,Jon Haynes,47,Manager,41823.17,Omega,2000-03-29,IT,San Francisco
+866,Deanna Whitehead,60,Developer,132319.61,Project1,1994-06-15,IT,San Francisco
+871,Breanna Garcia,28,Manager,115250.81,Gamma,2004-10-08,IT,San Francisco
+874,Kim Allen,39,Developer,52856.32,Omega,2012-04-27,IT,San Francisco
+877,Monica Thomas,40,Manager,139206.24,Project1,2020-11-26,IT,San Francisco
+880,Hannah Davidson,56,Analyst,82598.29,Project1,2007-01-07,IT,San Francisco
+884,Amanda Miles,26,Developer,107863.56,Project1,1976-12-23,IT,San Francisco
+886,Kristen Porter,48,Manager,60184.42,Project6,2014-06-10,IT,San Francisco
+894,Brad Hernandez,58,Analyst,85475.1,Project3,2010-11-24,IT,San Francisco
+904,Jesse Mendoza,60,Analyst,41781.47,Alpha,2024-06-26,IT,San Francisco
+914,Casey Garcia,47,Analyst,63614.46,Project1,2008-06-20,IT,San Francisco
+917,Hayden Young,25,Manager,133636.4,Project5,2013-07-15,IT,San Francisco
+931,William Gonzalez,47,Engineer,137718.46,Alpha,1996-02-11,IT,San Francisco
+935,Christine Freeman,31,Analyst,108687.42,Project4,2003-11-07,IT,San Francisco
+938,Amy Hooper MD,50,Engineer,132584.26,Omega,2020-03-26,IT,San Francisco
+939,Rhonda Torres,49,Analyst,62272.77,Project5,1999-01-30,IT,San Francisco
+942,Joseph Smith,32,Consultant,61112.7,Alpha,2012-01-19,IT,San Francisco
+943,Michelle Haley,59,Consultant,130770.02,Project2,1985-04-03,IT,San Francisco
+946,Jacob Smith,54,Manager,88712.42,Project5,2017-09-26,IT,San Francisco
+947,Brittney Garza,53,Analyst,75303.84,Project6,2002-04-20,IT,San Francisco
+949,Bailey Harmon,38,Manager,149195.28,Omega,1983-02-07,IT,San Francisco
+953,Ashley Smith,26,Developer,83500.42,Beta,1999-05-20,IT,San Francisco
+957,Angie Rodriguez,60,Engineer,114525.17,Alpha,2013-05-02,IT,San Francisco
+961,Ms. Heather Huynh,49,Manager,122955.45,Project3,2019-07-19,IT,San Francisco
+966,David Walters,24,Consultant,58048.95,Project2,2004-08-13,IT,San Francisco
+971,Michael Cole,42,Engineer,108502.49,Project5,2003-03-02,IT,San Francisco
+980,Fred French,28,Analyst,99191.62,Project1,1972-09-04,IT,San Francisco
+986,Gwendolyn Bowman,26,Consultant,79908.27,Project3,1991-11-06,IT,San Francisco
+987,Nicole Matthews,54,Manager,89506.55,Project3,1973-08-02,IT,San Francisco
+989,Mary Cook,40,Manager,85327.64,Project1,2004-11-10,IT,San Francisco
+994,Herbert Curtis,60,Consultant,40393.37,Alpha,1979-01-27,IT,San Francisco
+1,Ronald Huff,51,Analyst,134392.83,Gamma,2016-08-10,Marketing,Los Angeles
+2,Donna Moreno,59,Developer,91170.58,Project4,2000-10-23,Marketing,Los Angeles
+8,Aaron Meza,46,Analyst,71419.04,Delta,1997-09-18,Marketing,Los Angeles
+11,Joshua Morrison,60,Developer,110516.62,Project2,1971-11-03,Marketing,Los Angeles
+18,William Ross,58,Developer,109955.05,Delta,1996-07-06,Marketing,Los Angeles
+20,John Pineda,59,Analyst,48227.34,Delta,1988-11-11,Marketing,Los Angeles
+23,Brittney Moore,39,Consultant,124649.16,Project5,2016-05-30,Marketing,Los Angeles
+24,Karen Gonzales,57,Manager,139435.97,Beta,1995-01-25,Marketing,Los Angeles
+25,Daniel Martinez,56,Consultant,57907.98,Project6,2018-12-17,Marketing,Los Angeles
+29,Aaron Castro,42,Manager,93908.13,Project3,1976-11-28,Marketing,Los Angeles
+35,Alice Conrad,27,Developer,69378.16,Omega,1991-03-25,Marketing,Los Angeles
+37,Michael Pineda MD,60,Developer,106322.68,Beta,2019-05-07,Marketing,Los Angeles
+47,Deborah Ortiz,54,Analyst,88345.94,Project4,2014-01-26,Marketing,Los Angeles
+52,Tara Taylor,34,Analyst,138123.48,Alpha,1996-01-24,Marketing,Los Angeles
+59,Karen Bass,37,Analyst,94713.63,Project3,1993-10-03,Marketing,Los Angeles
+74,Kelly Love,44,Engineer,103617.19,Gamma,1992-02-07,Marketing,Los Angeles
+75,Amber Clark,49,Consultant,128892.47,Omega,2001-11-07,Marketing,Los Angeles
+76,Scott Smith,26,Manager,84632.31,Project5,1981-06-15,Marketing,Los Angeles
+77,David Taylor,42,Engineer,125207.19,Project4,1978-02-09,Marketing,Los Angeles
+78,Richard Bennett,54,Developer,114429.9,Project6,1988-04-13,Marketing,Los Angeles
+81,Dustin Mathis,57,Analyst,105372.46,Delta,1996-12-03,Marketing,Los Angeles
+90,Thomas Martin,52,Manager,81306.04,Project5,2007-05-27,Marketing,Los Angeles
+93,Sean Montgomery,58,Analyst,112291.48,Delta,2000-08-25,Marketing,Los Angeles
+100,Nancy Johnson,48,Consultant,143957.99,Alpha,2018-02-19,Marketing,Los Angeles
+103,Marie Brown,47,Manager,106460.66,Omega,1996-04-23,Marketing,Los Angeles
+109,Daniel Le,34,Developer,137670.61,Project3,1996-06-16,Marketing,Los Angeles
+119,Sheri Odonnell,48,Analyst,44166.39,Project1,1989-01-05,Marketing,Los Angeles
+126,Gregg Wood,44,Engineer,50410.93,Gamma,2005-04-20,Marketing,Los Angeles
+132,Cody Williams,27,Developer,141017.36,Delta,1996-09-05,Marketing,Los Angeles
+137,Amanda Sampson,57,Consultant,64526.62,Project2,1998-08-25,Marketing,Los Angeles
+146,Jasmine Stevens,32,Consultant,43410.4,Omega,1974-11-25,Marketing,Los Angeles
+148,Amanda Villa,47,Consultant,92173.36,Project2,1993-07-22,Marketing,Los Angeles
+155,Jesse Richards,48,Consultant,63239.26,Project1,2021-06-15,Marketing,Los Angeles
+173,Lawrence Rodriguez,27,Manager,107115.26,Beta,2006-01-03,Marketing,Los Angeles
+183,Melissa Campos,40,Manager,92206.55,Project1,2000-11-15,Marketing,Los Angeles
+185,Kelly Ramirez,26,Engineer,42325.14,Project5,2020-07-26,Marketing,Los Angeles
+194,Adam Bauer,44,Developer,65952.6,Project1,1986-08-20,Marketing,Los Angeles
+196,Michelle Johnson,31,Manager,45741.33,Project1,1990-04-29,Marketing,Los Angeles
+207,Jesse Rivera,35,Manager,96273.02,Gamma,2002-11-17,Marketing,Los Angeles
+208,Tanya Lozano,35,Developer,83901.5,Gamma,1973-08-01,Marketing,Los Angeles
+210,Laurie Ramirez,39,Engineer,54801.62,Project5,2006-04-08,Marketing,Los Angeles
+220,Keith Hughes,27,Developer,146453.24,Project6,1981-07-20,Marketing,Los Angeles
+221,April King,56,Engineer,108292.2,Project5,1995-11-27,Marketing,Los Angeles
+228,Cynthia Berg,23,Engineer,74712.79,Beta,1970-08-09,Marketing,Los Angeles
+229,Angel Leblanc,47,Developer,43858.53,Gamma,1980-09-06,Marketing,Los Angeles
+230,Julie Jimenez,40,Consultant,100878.86,Alpha,2020-01-12,Marketing,Los Angeles
+232,Chase Cooper,39,Manager,109787.4,Alpha,2004-12-07,Marketing,Los Angeles
+240,Stephen Perez,44,Engineer,108571.82,Gamma,2010-09-18,Marketing,Los Angeles
+249,Andre Whitaker,53,Developer,90411.62,Project3,1981-06-01,Marketing,Los Angeles
+253,Joseph Reyes,26,Consultant,123305.76,Omega,2016-07-18,Marketing,Los Angeles
+257,Joseph Walker,43,Analyst,82635.2,Project5,1983-07-17,Marketing,Los Angeles
+261,Michelle Marsh,57,Developer,111151.93,Alpha,2020-04-05,Marketing,Los Angeles
+263,Christian Leblanc,28,Manager,128814.56,Project4,2004-08-14,Marketing,Los Angeles
+266,Philip Miller,37,Developer,97036.45,Beta,1985-08-01,Marketing,Los Angeles
+269,Lauren Mcdonald,60,Manager,77155.12,Alpha,2000-09-30,Marketing,Los Angeles
+295,Cody Carrillo,43,Analyst,68326.34,Gamma,1981-11-30,Marketing,Los Angeles
+297,Jacob Williams,22,Engineer,101024.46,Beta,1978-08-20,Marketing,Los Angeles
+301,Jessica Murphy,27,Manager,42546.85,Project6,1981-03-27,Marketing,Los Angeles
+305,Mr. Bernard Boyd,50,Consultant,147119.6,Gamma,2015-10-18,Marketing,Los Angeles
+307,Meredith Patterson,42,Developer,85786.85,Project2,1980-09-10,Marketing,Los Angeles
+321,Penny Sims,48,Developer,112850.24,Beta,1992-06-07,Marketing,Los Angeles
+322,Mary Douglas,33,Manager,96066.39,Project2,2023-08-07,Marketing,Los Angeles
+323,Kimberly Roth,42,Analyst,54958.89,Project4,1983-12-29,Marketing,Los Angeles
+334,April Pennington,22,Consultant,52821.1,Omega,1997-12-14,Marketing,Los Angeles
+336,William Kent,38,Analyst,100299.73,Alpha,2021-03-09,Marketing,Los Angeles
+341,Edward Peterson,43,Developer,118288.1,Project6,2001-03-05,Marketing,Los Angeles
+346,Claire Blake,41,Engineer,128066.99,Project6,2020-10-29,Marketing,Los Angeles
+360,Alyssa Gomez,51,Manager,95601.54,Project1,1974-12-18,Marketing,Los Angeles
+364,Nathan Jordan,22,Developer,88533.12,Beta,1987-12-26,Marketing,Los Angeles
+365,Henry Huang,48,Analyst,124881.33,Project2,1996-09-15,Marketing,Los Angeles
+372,Robert Hall,49,Engineer,97660.09,Project2,1983-10-24,Marketing,Los Angeles
+374,Cole Jones,53,Consultant,52445.68,Project5,2014-11-14,Marketing,Los Angeles
+379,Tiffany Cannon,51,Developer,55118.17,Project5,2005-10-11,Marketing,Los Angeles
+384,Paul Perez DDS,46,Developer,76495.85,Project6,2011-05-23,Marketing,Los Angeles
+386,Rebecca Yates,23,Engineer,96076.13,Omega,2008-04-04,Marketing,Los Angeles
+390,Latoya Martin,45,Engineer,41324.23,Delta,1984-03-10,Marketing,Los Angeles
+392,Krista Campos,39,Developer,138461.62,Project2,2006-05-03,Marketing,Los Angeles
+395,Jose Murphy,57,Developer,43906.3,Beta,1999-11-24,Marketing,Los Angeles
+403,Christina Gregory,44,Engineer,94424.16,Project2,1988-04-16,Marketing,Los Angeles
+409,Paul Wilson,36,Engineer,120674.01,Project5,1970-03-11,Marketing,Los Angeles
+411,Stephanie Stewart MD,50,Developer,72502.94,Project6,1977-02-27,Marketing,Los Angeles
+416,Paul Sanchez,25,Consultant,82200.69,Project5,1988-01-26,Marketing,Los Angeles
+430,Mathew Edwards,24,Analyst,98146.05,Project5,2016-03-08,Marketing,Los Angeles
+432,Willie Elliott,34,Manager,64051.41,Project6,1990-02-14,Marketing,Los Angeles
+434,Dr. Susan Wolf,47,Manager,54307.41,Project2,1971-08-21,Marketing,Los Angeles
+436,Laura Watkins,41,Manager,42870.17,Alpha,1980-10-18,Marketing,Los Angeles
+439,Alyssa Rodriguez,35,Manager,116975.87,Project2,1984-04-22,Marketing,Los Angeles
+442,Sara Herrera,40,Manager,83741.48,Project4,1976-05-17,Marketing,Los Angeles
+446,Angela Nelson,44,Analyst,89675.4,Project3,2010-04-13,Marketing,Los Angeles
+451,Andres Duncan,55,Developer,123169.18,Project5,2016-06-28,Marketing,Los Angeles
+457,Dr. Scott Jarvis Jr.,57,Engineer,61724.8,Beta,2010-05-09,Marketing,Los Angeles
+458,Laurie Delgado,55,Analyst,139859.18,Project1,2003-09-15,Marketing,Los Angeles
+461,Michael Mcknight,59,Analyst,129776.28,Alpha,1986-07-08,Marketing,Los Angeles
+462,Jonathan Anderson,30,Consultant,108728.34,Project6,2020-01-29,Marketing,Los Angeles
+463,Garrett Hamilton,47,Developer,117550.84,Delta,2001-09-28,Marketing,Los Angeles
+471,Troy Taylor,28,Manager,67824.96,Omega,2001-03-19,Marketing,Los Angeles
+477,Samantha Navarro,46,Manager,67975.54,Omega,1982-08-01,Marketing,Los Angeles
+483,Mrs. Jennifer Kelly MD,53,Manager,120717.0,Project5,1980-06-01,Marketing,Los Angeles
+506,Amy Farmer,51,Manager,114173.08,Project6,1983-07-30,Marketing,Los Angeles
+515,Michelle Hall,32,Engineer,87072.32,Project4,2024-02-06,Marketing,Los Angeles
+516,Mrs. Ashley Houston,55,Developer,108348.99,Project6,2008-08-25,Marketing,Los Angeles
+520,Kevin Daniels,55,Engineer,119715.28,Beta,1996-02-19,Marketing,Los Angeles
+530,Anthony Gomez,53,Consultant,44187.26,Gamma,1982-02-25,Marketing,Los Angeles
+531,Christina Hawkins,44,Analyst,60180.89,Project2,2018-07-21,Marketing,Los Angeles
+534,Michael Joseph,23,Developer,145679.1,Delta,2012-11-25,Marketing,Los Angeles
+540,Dr. Ryan Smith,48,Developer,65079.62,Project6,2018-04-29,Marketing,Los Angeles
+541,Daniel Klein,54,Developer,145632.04,Omega,2001-01-15,Marketing,Los Angeles
+545,Jesse Ray,38,Engineer,117981.63,Beta,1987-04-02,Marketing,Los Angeles
+549,Danielle Hunter,25,Developer,116941.76,Project2,1992-05-11,Marketing,Los Angeles
+554,Erik Riddle,39,Engineer,128080.27,Project2,1988-11-01,Marketing,Los Angeles
+558,Jamie Bryant,60,Manager,99480.22,Project1,2020-09-01,Marketing,Los Angeles
+562,Michael Davidson,32,Consultant,74524.69,Project4,2017-05-27,Marketing,Los Angeles
+566,Michael Haley,57,Manager,48085.13,Delta,2014-10-28,Marketing,Los Angeles
+569,Rhonda Larsen,38,Developer,75838.55,Project5,2013-12-05,Marketing,Los Angeles
+571,Alicia Willis,46,Manager,66081.44,Project1,1987-02-25,Marketing,Los Angeles
+574,Charles Pierce,24,Analyst,111198.68,Gamma,1999-11-24,Marketing,Los Angeles
+575,Cody Peters,24,Analyst,44383.37,Gamma,1993-12-28,Marketing,Los Angeles
+577,Gregory Morrison,38,Manager,57992.22,Omega,1983-08-18,Marketing,Los Angeles
+585,Donna Garner,38,Engineer,106677.4,Gamma,2023-12-12,Marketing,Los Angeles
+586,Chelsea Woods,38,Manager,88782.7,Project2,2009-10-27,Marketing,Los Angeles
+589,Mallory Banks,60,Analyst,67624.29,Project6,2018-07-26,Marketing,Los Angeles
+592,Evan Gordon,43,Developer,102186.65,Gamma,2007-06-17,Marketing,Los Angeles
+594,Eileen Alvarez,58,Consultant,148153.57,Project4,1991-11-08,Marketing,Los Angeles
+597,Hayden Obrien,46,Analyst,45006.03,Omega,1993-12-06,Marketing,Los Angeles
+603,Kaitlin King,29,Developer,70449.14,Alpha,1986-09-14,Marketing,Los Angeles
+614,Traci Chapman,49,Manager,115245.8,Alpha,2017-04-14,Marketing,Los Angeles
+618,James Vargas,42,Consultant,146611.73,Project3,1972-01-30,Marketing,Los Angeles
+621,Lisa Rivera,56,Engineer,113543.16,Project4,1990-11-27,Marketing,Los Angeles
+624,Kenneth Carson,32,Manager,56683.26,Omega,1977-01-11,Marketing,Los Angeles
+630,Christina Williams,49,Engineer,73877.33,Project4,1993-11-21,Marketing,Los Angeles
+633,Steven Frye,33,Developer,56676.49,Project4,1979-07-02,Marketing,Los Angeles
+659,Dawn Nelson,30,Consultant,61758.02,Project1,2023-07-18,Marketing,Los Angeles
+668,Amanda Hansen,49,Consultant,69478.74,Project4,2001-11-02,Marketing,Los Angeles
+674,Dr. Amy Hebert DVM,28,Analyst,144866.24,Delta,2008-12-27,Marketing,Los Angeles
+675,Susan Schmidt,29,Engineer,147083.37,Project5,1989-06-03,Marketing,Los Angeles
+681,Michael Herrera,55,Manager,72790.33,Omega,1982-03-10,Marketing,Los Angeles
+686,Kimberly Hunter,54,Engineer,100260.27,Project1,2003-02-12,Marketing,Los Angeles
+694,Michael Garcia,23,Analyst,57657.95,Omega,1988-12-17,Marketing,Los Angeles
+695,Daniel Boone,35,Manager,136883.95,Project5,2021-12-13,Marketing,Los Angeles
+699,Emily Gallagher,45,Engineer,51473.98,Project6,2003-10-07,Marketing,Los Angeles
+701,Richard Hunter,41,Manager,89903.83,Project1,1999-08-28,Marketing,Los Angeles
+702,Raymond Williams,25,Manager,118891.3,Beta,2010-10-01,Marketing,Los Angeles
+703,Shawn Flores,46,Engineer,45623.0,Project6,1993-01-08,Marketing,Los Angeles
+718,Daniel Pierce,51,Engineer,132373.59,Alpha,2008-05-15,Marketing,Los Angeles
+720,Joseph Bryant,36,Engineer,131195.16,Alpha,1988-08-15,Marketing,Los Angeles
+729,Wesley Sanders,28,Manager,141887.01,Beta,2005-09-13,Marketing,Los Angeles
+730,Ashley Nash,23,Engineer,112090.94,Omega,2007-12-10,Marketing,Los Angeles
+734,David Shaw,26,Analyst,94232.81,Project4,1985-10-27,Marketing,Los Angeles
+738,Jennifer Richards,47,Engineer,92628.07,Project1,1993-03-06,Marketing,Los Angeles
+741,Doris Young,50,Manager,58324.58,Gamma,2007-09-02,Marketing,Los Angeles
+743,Charles Parker,57,Engineer,46669.64,Project2,1996-09-30,Marketing,Los Angeles
+745,Tonya Charles,57,Engineer,111112.47,Project4,1970-05-31,Marketing,Los Angeles
+750,Michaela Davila,24,Developer,100181.92,Beta,2017-01-10,Marketing,Los Angeles
+757,Adam Mccann,57,Manager,100481.28,Beta,1986-07-31,Marketing,Los Angeles
+760,Melvin Smith,23,Developer,105371.48,Project6,1976-09-14,Marketing,Los Angeles
+765,Joseph Mann,34,Analyst,117967.12,Omega,1983-07-01,Marketing,Los Angeles
+767,Paul Hunter,35,Consultant,119104.04,Gamma,1994-07-02,Marketing,Los Angeles
+771,Tammy Turner,38,Analyst,43383.38,Project5,1974-07-06,Marketing,Los Angeles
+782,Alexis Gray,37,Analyst,92784.6,Delta,2006-01-01,Marketing,Los Angeles
+786,Joel White,31,Engineer,124714.99,Project3,1970-04-10,Marketing,Los Angeles
+791,Alexandra Johnson PhD,59,Analyst,136648.26,Project2,2005-12-10,Marketing,Los Angeles
+795,Bill Allen,43,Manager,114285.18,Project6,2021-04-24,Marketing,Los Angeles
+819,Sarah Frazier,24,Developer,48140.92,Omega,2003-05-28,Marketing,Los Angeles
+825,Dr. Morgan Austin,23,Engineer,130242.69,Project2,1983-11-14,Marketing,Los Angeles
+831,Brittany Lynch,58,Consultant,107489.1,Gamma,2009-01-29,Marketing,Los Angeles
+836,Roger Ball,48,Developer,79141.7,Project3,1995-06-01,Marketing,Los Angeles
+837,Joel Long,58,Analyst,96179.58,Delta,2015-03-19,Marketing,Los Angeles
+842,Ronald Mendez,30,Developer,122760.21,Gamma,1997-04-13,Marketing,Los Angeles
+851,Frances Hernandez,27,Developer,113583.46,Project4,2015-01-04,Marketing,Los Angeles
+856,Erica Williams,38,Consultant,98282.11,Alpha,1992-10-08,Marketing,Los Angeles
+857,Kathleen Snow,27,Engineer,86130.45,Project4,2006-06-19,Marketing,Los Angeles
+863,David Huffman,36,Analyst,86289.76,Project6,1982-03-27,Marketing,Los Angeles
+869,Scott Stone,25,Consultant,50847.58,Delta,1996-03-23,Marketing,Los Angeles
+870,Manuel Frazier,23,Analyst,59310.26,Gamma,2004-01-21,Marketing,Los Angeles
+879,Spencer Ellis,59,Consultant,72078.94,Project2,1981-07-10,Marketing,Los Angeles
+882,Thomas Walker,46,Manager,53953.44,Delta,2000-12-24,Marketing,Los Angeles
+893,Darryl Lee,26,Analyst,53706.71,Project6,1999-10-07,Marketing,Los Angeles
+900,Ashley Brooks DVM,57,Analyst,59938.33,Gamma,2004-03-31,Marketing,Los Angeles
+901,Eric Medina,30,Manager,44582.26,Gamma,1981-01-29,Marketing,Los Angeles
+902,Michelle Lynch,43,Developer,94909.13,Alpha,2023-06-05,Marketing,Los Angeles
+907,Nicholas Klein,25,Manager,70138.03,Delta,1993-04-22,Marketing,Los Angeles
+908,Danielle Waters,22,Analyst,120705.45,Alpha,1999-03-31,Marketing,Los Angeles
+912,Erica Bradley,30,Analyst,42527.03,Gamma,1972-10-18,Marketing,Los Angeles
+913,Christian Robinson,47,Analyst,101713.94,Delta,1980-08-23,Marketing,Los Angeles
+920,Anthony Carson,48,Consultant,80082.68,Project5,1984-01-09,Marketing,Los Angeles
+923,Christopher Ward,59,Manager,68123.65,Gamma,2023-02-11,Marketing,Los Angeles
+925,Anne Farrell,51,Manager,55765.08,Project6,2000-01-10,Marketing,Los Angeles
+926,Michael Tran,46,Engineer,124809.56,Project5,2008-11-11,Marketing,Los Angeles
+930,Stacey Gallagher MD,52,Developer,79302.59,Project3,2012-06-23,Marketing,Los Angeles
+936,Michael Baker,40,Developer,138772.55,Beta,2009-10-23,Marketing,Los Angeles
+937,Brian Goodman,45,Manager,55511.31,Omega,1971-04-21,Marketing,Los Angeles
+944,Timothy Garcia,32,Analyst,54192.93,Project5,1987-10-22,Marketing,Los Angeles
+945,Donald Hansen,52,Consultant,137769.82,Gamma,2008-03-01,Marketing,Los Angeles
+950,Thomas Bennett,33,Developer,80184.39,Project2,2004-10-15,Marketing,Los Angeles
+951,Monique Mendoza,53,Engineer,77775.22,Project1,2007-10-30,Marketing,Los Angeles
+952,Anthony Richardson,47,Engineer,101398.33,Project1,1976-12-15,Marketing,Los Angeles
+973,Jacqueline Wilkins,36,Developer,120896.42,Delta,1970-12-31,Marketing,Los Angeles
+974,Ronald Maxwell,52,Developer,83787.7,Project4,2005-12-07,Marketing,Los Angeles
+978,Jill Lopez,58,Engineer,145958.35,Project1,1985-01-02,Marketing,Los Angeles
+981,Kimberly Butler,30,Analyst,85676.24,Project1,1994-05-31,Marketing,Los Angeles
+982,Marie Dunn,49,Engineer,51114.17,Project2,2004-12-29,Marketing,Los Angeles
+984,Daniel Smith,22,Analyst,60583.7,Project6,1997-11-05,Marketing,Los Angeles
+988,Louis Hale,60,Developer,110525.99,Project2,1978-11-11,Marketing,Los Angeles
+992,Robert Lewis,45,Engineer,140301.65,Project5,1977-03-03,Marketing,Los Angeles
+996,Mary Combs,39,Analyst,135526.27,Alpha,1983-02-19,Marketing,Los Angeles
+998,Hayden Wyatt,39,Manager,56080.52,Project3,2005-12-22,Marketing,Los Angeles
+5,Michelle Gray,58,Analyst,73015.17,Project6,1975-11-13,Operations,Seattle
+6,Cindy Thomas,37,Developer,80038.13,Project5,1974-01-29,Operations,Seattle
+7,Mr. Andrew Wright,52,Developer,43137.57,Alpha,1982-09-20,Operations,Seattle
+12,Lori Martinez,44,Analyst,133800.67,Delta,1975-07-03,Operations,Seattle
+16,Tanya Dillon,42,Developer,68160.12,Project3,1989-06-01,Operations,Seattle
+30,Ashley Craig,26,Developer,47031.86,Alpha,2022-12-27,Operations,Seattle
+32,Caleb Davis,26,Consultant,123357.5,Delta,1976-09-14,Operations,Seattle
+34,Heather Bradley,25,Developer,134902.08,Project4,1998-11-18,Operations,Seattle
+43,Glen Frazier,56,Analyst,53112.38,Project1,2002-08-19,Operations,Seattle
+44,Derek Scott,30,Manager,104523.46,Project1,2017-12-06,Operations,Seattle
+46,Kelly Miller,56,Consultant,121142.92,Delta,2018-05-26,Operations,Seattle
+51,Ms. Susan Gibson,40,Engineer,99308.87,Project3,2001-09-25,Operations,Seattle
+53,Amanda Dickerson,41,Consultant,43540.18,Project6,2005-06-16,Operations,Seattle
+54,William Davidson,57,Developer,133562.82,Project1,1983-02-05,Operations,Seattle
+63,Sheri Horton,35,Manager,89052.42,Project3,1991-08-10,Operations,Seattle
+66,Nancy Woods,37,Analyst,132457.0,Project5,2010-03-13,Operations,Seattle
+71,Glenn Burton,52,Developer,64106.63,Project1,1977-10-05,Operations,Seattle
+72,Chad Holmes,49,Manager,102727.87,Gamma,2019-01-06,Operations,Seattle
+80,Tracy Webster,52,Engineer,53020.03,Project2,2004-07-28,Operations,Seattle
+83,Natasha Osborne,31,Engineer,52047.39,Project6,2017-03-26,Operations,Seattle
+86,Troy Fleming,30,Manager,74211.49,Omega,1994-04-09,Operations,Seattle
+91,Heather Chandler,43,Engineer,143008.72,Project2,2013-04-10,Operations,Seattle
+98,Jason Monroe,56,Consultant,119026.62,Project3,1992-08-28,Operations,Seattle
+117,Lisa Wallace,33,Developer,148365.41,Project1,1972-10-19,Operations,Seattle
+129,Mary Moreno,48,Developer,66801.63,Project2,2019-07-01,Operations,Seattle
+134,Matthew Harrison,50,Analyst,138344.32,Delta,1999-04-08,Operations,Seattle
+144,Shawn Edwards,25,Manager,112825.07,Gamma,1989-07-02,Operations,Seattle
+149,Elizabeth Dixon,51,Manager,105157.94,Project6,1983-06-22,Operations,Seattle
+153,Joseph Smith,48,Analyst,115681.21,Omega,1982-07-20,Operations,Seattle
+154,Richard Combs,58,Consultant,136939.11,Project1,1989-12-24,Operations,Seattle
+159,Frank Hudson,39,Manager,97538.73,Project2,1986-05-04,Operations,Seattle
+165,Mark Shelton,32,Developer,63322.58,Project4,2022-08-04,Operations,Seattle
+170,Mary Smith,23,Consultant,126270.5,Beta,1977-07-23,Operations,Seattle
+188,Robert Ryan MD,31,Consultant,111905.37,Beta,1975-04-29,Operations,Seattle
+192,Danielle White,56,Consultant,140585.04,Project5,2023-09-02,Operations,Seattle
+195,Alicia Powell,24,Analyst,126177.37,Project5,1997-04-17,Operations,Seattle
+198,Kevin Gardner,41,Manager,54453.57,Project4,2003-07-10,Operations,Seattle
+215,Daniel Cox,59,Developer,60782.03,Project3,1972-01-01,Operations,Seattle
+216,Catherine Trevino,44,Engineer,86663.07,Beta,2008-07-22,Operations,Seattle
+223,Leonard Mendoza,44,Analyst,61437.22,Project6,1980-01-11,Operations,Seattle
+224,Grace Hill,31,Consultant,123414.19,Beta,1999-07-07,Operations,Seattle
+233,David Glenn,58,Developer,129708.11,Project6,1971-12-22,Operations,Seattle
+234,Amy Taylor,36,Engineer,108690.03,Project3,1976-09-17,Operations,Seattle
+236,Terry Hayes,23,Developer,119714.64,Project3,1983-04-10,Operations,Seattle
+237,Melissa Perry,46,Manager,105175.33,Project4,1984-02-02,Operations,Seattle
+243,Patrick Ray,53,Engineer,109524.04,Omega,1984-10-25,Operations,Seattle
+244,Timothy Rivera,43,Manager,140204.05,Omega,1972-05-29,Operations,Seattle
+246,Tiffany Gordon,44,Engineer,54708.38,Delta,1981-11-11,Operations,Seattle
+247,Brittany Washington,50,Developer,42089.9,Project4,2007-02-17,Operations,Seattle
+248,Omar Sosa,52,Analyst,124463.17,Project3,2017-03-04,Operations,Seattle
+254,Michael Bass,50,Engineer,72460.74,Project2,1992-11-14,Operations,Seattle
+260,Allen Blanchard,60,Manager,110114.93,Beta,1975-11-13,Operations,Seattle
+262,Mrs. Leslie Neal MD,41,Analyst,101666.08,Project4,2004-08-21,Operations,Seattle
+274,Casey Barker,33,Consultant,74398.89,Project6,1973-04-04,Operations,Seattle
+282,Paul Hogan,38,Analyst,77335.63,Omega,2015-01-14,Operations,Seattle
+283,Candace Snyder,42,Engineer,118117.15,Project5,2011-03-17,Operations,Seattle
+288,Latasha Brown,40,Analyst,88481.38,Project6,1989-03-16,Operations,Seattle
+304,Allison Torres DDS,45,Developer,131655.4,Project3,1971-12-28,Operations,Seattle
+308,Michael Johnston,30,Analyst,45783.08,Project1,1989-04-07,Operations,Seattle
+309,Jessica Little,31,Analyst,47645.78,Gamma,2002-12-20,Operations,Seattle
+313,Brett Mccoy,35,Engineer,146944.9,Delta,1990-09-10,Operations,Seattle
+316,Diana Torres,37,Developer,137240.97,Project5,2019-09-06,Operations,Seattle
+325,Teresa Gibbs,23,Manager,50330.98,Project2,1991-06-17,Operations,Seattle
+329,Rachael Rodriguez,31,Engineer,142152.74,Delta,1981-11-25,Operations,Seattle
+345,Thomas Sanchez,60,Developer,113934.15,Alpha,1973-10-05,Operations,Seattle
+352,Lee Rosario,36,Manager,134499.34,Project4,1975-12-15,Operations,Seattle
+358,Jason Walker,55,Analyst,80430.51,Beta,2012-11-24,Operations,Seattle
+359,Kimberly Reese,59,Manager,88200.26,Project5,2011-03-28,Operations,Seattle
+366,Charles Berry,48,Manager,129224.49,Project3,2004-07-15,Operations,Seattle
+370,Colleen James,57,Consultant,126638.98,Gamma,1990-05-23,Operations,Seattle
+373,Kayla Carter,22,Analyst,92364.12,Project5,2022-03-18,Operations,Seattle
+377,Robin Brady,27,Consultant,113354.73,Project1,2018-01-08,Operations,Seattle
+380,Daniel Cruz,50,Analyst,51644.93,Project6,2011-06-02,Operations,Seattle
+389,Kenneth Baker,37,Manager,51679.42,Delta,2024-05-21,Operations,Seattle
+396,Cynthia Scott,50,Manager,111232.17,Omega,1983-06-18,Operations,Seattle
+399,Laura Mahoney,26,Developer,88810.51,Gamma,2022-07-31,Operations,Seattle
+404,Gary Hanson,28,Developer,107285.54,Project5,2021-07-28,Operations,Seattle
+406,Lori Torres,46,Engineer,136386.37,Project3,2012-01-26,Operations,Seattle
+407,Kyle Reed,50,Developer,49737.21,Alpha,1981-10-21,Operations,Seattle
+414,Desiree Arnold,47,Engineer,83268.64,Project5,1987-11-21,Operations,Seattle
+420,Vanessa Vasquez,58,Developer,149392.46,Alpha,1973-02-07,Operations,Seattle
+422,Nancy Hall,42,Consultant,129213.47,Project5,2002-05-10,Operations,Seattle
+433,Anthony Nelson,35,Analyst,52462.81,Project6,2011-03-08,Operations,Seattle
+445,Edward Fleming,48,Engineer,48579.8,Project5,1990-11-03,Operations,Seattle
+450,Sandra Wright,43,Consultant,67815.44,Alpha,2004-05-10,Operations,Seattle
+475,Dylan Franco,23,Engineer,132695.1,Delta,2019-07-20,Operations,Seattle
+487,Christopher Bartlett,32,Developer,104290.38,Beta,2012-01-22,Operations,Seattle
+489,Chris Frank,50,Manager,89066.23,Project6,1983-05-01,Operations,Seattle
+492,Angela Reed,23,Analyst,131127.47,Beta,1976-08-17,Operations,Seattle
+497,Rachel Lawrence,44,Engineer,54875.42,Project5,2009-10-17,Operations,Seattle
+500,Vanessa Riley,26,Consultant,80301.72,Gamma,2013-02-24,Operations,Seattle
+501,Lauren Gonzalez,38,Engineer,136364.14,Project6,1970-03-26,Operations,Seattle
+502,David Kelly,50,Manager,54465.87,Delta,1972-12-16,Operations,Seattle
+503,Dr. Charles Taylor PhD,37,Manager,81911.59,Project4,1987-09-26,Operations,Seattle
+505,Crystal Fleming,27,Consultant,122248.21,Project2,1974-01-03,Operations,Seattle
+507,Melissa Morris,57,Analyst,81166.81,Delta,1992-02-25,Operations,Seattle
+528,Brandon Bradley,51,Consultant,97647.88,Project3,1988-07-06,Operations,Seattle
+532,Tiffany Carter,53,Developer,135472.77,Project5,2003-09-22,Operations,Seattle
+535,Brad Stephens,49,Analyst,81483.8,Project6,1971-02-04,Operations,Seattle
+542,Jenny Miller,41,Developer,148813.68,Project4,1979-05-25,Operations,Seattle
+547,Roger Small,49,Engineer,132303.6,Gamma,2019-11-20,Operations,Seattle
+548,Nicole Shelton,34,Consultant,135682.63,Project2,1972-03-31,Operations,Seattle
+559,Lisa Benson,60,Engineer,147488.61,Project1,1993-11-04,Operations,Seattle
+560,Dennis Frost,36,Consultant,89488.56,Project1,1976-08-15,Operations,Seattle
+570,Alejandro Beck,28,Analyst,133644.03,Delta,2016-07-21,Operations,Seattle
+576,Kayla Davis,25,Developer,51020.12,Omega,2006-10-23,Operations,Seattle
+578,Eric Webb MD,56,Engineer,42423.37,Delta,2018-11-11,Operations,Seattle
+584,Jason Carter,44,Analyst,106273.75,Project1,2005-05-16,Operations,Seattle
+593,Michael Oneill,59,Engineer,107995.04,Omega,1979-04-13,Operations,Seattle
+596,Brandi Long,23,Engineer,58754.92,Project6,2022-01-13,Operations,Seattle
+599,Jason Nguyen,48,Analyst,63098.67,Project2,1992-05-17,Operations,Seattle
+608,Charles Cardenas,51,Manager,84080.62,Project4,1985-01-07,Operations,Seattle
+615,Steven Sherman,34,Manager,131311.71,Project4,1970-10-25,Operations,Seattle
+616,Kimberly Taylor,47,Manager,52888.0,Project2,1975-07-13,Operations,Seattle
+617,Emily Hancock,38,Engineer,46790.02,Omega,1974-07-14,Operations,Seattle
+626,Michael Palmer,36,Engineer,90597.36,Project3,1984-06-27,Operations,Seattle
+627,Nancy Jones,49,Consultant,96466.82,Gamma,1974-03-03,Operations,Seattle
+635,Tammy Porter,27,Analyst,43388.01,Beta,1992-01-17,Operations,Seattle
+637,Fred Bell,44,Engineer,140779.09,Project2,1981-08-19,Operations,Seattle
+644,Mark Olson DVM,38,Manager,68274.66,Project3,1979-02-08,Operations,Seattle
+650,Matthew Eaton,40,Developer,143680.07,Project1,2018-08-19,Operations,Seattle
+653,Christina Smith,46,Consultant,115434.32,Project1,1979-03-21,Operations,Seattle
+658,Jessica Gonzalez,34,Engineer,67231.64,Delta,2009-04-28,Operations,Seattle
+661,Michael Cook,57,Manager,95405.68,Beta,1973-04-07,Operations,Seattle
+665,Margaret Frye,44,Manager,133133.39,Project5,1993-10-12,Operations,Seattle
+671,Cynthia Turner,47,Analyst,103892.55,Beta,2019-07-19,Operations,Seattle
+673,David Gates,60,Engineer,122164.05,Project6,2000-12-10,Operations,Seattle
+679,Summer Robinson,46,Engineer,146995.43,Project3,1993-12-30,Operations,Seattle
+680,Dr. David Kelly DDS,42,Engineer,79671.16,Project3,2016-03-27,Operations,Seattle
+692,Kelsey Powers,41,Engineer,59534.44,Project2,2006-10-28,Operations,Seattle
+698,Cathy Mccoy DVM,58,Engineer,82693.9,Project2,1989-03-10,Operations,Seattle
+704,Diane Barnett,29,Engineer,145201.32,Delta,2023-03-28,Operations,Seattle
+705,Brent Flores,44,Manager,119092.71,Project2,1998-06-22,Operations,Seattle
+706,Richard Anderson,42,Manager,83338.84,Omega,1995-07-19,Operations,Seattle
+707,Lori Wilson,55,Analyst,111056.52,Project5,1977-05-16,Operations,Seattle
+710,Nicole Waters,44,Analyst,104077.35,Gamma,2019-11-03,Operations,Seattle
+715,Sarah Pena,24,Consultant,111423.93,Alpha,2021-11-22,Operations,Seattle
+724,Kelly Bradford,60,Consultant,149587.7,Delta,1972-02-16,Operations,Seattle
+731,Megan Benjamin DDS,51,Engineer,128494.9,Gamma,1998-11-23,Operations,Seattle
+740,Andrea Gill,39,Manager,66871.0,Gamma,1986-12-27,Operations,Seattle
+746,Nancy Gonzalez,35,Analyst,48957.87,Project1,2009-11-12,Operations,Seattle
+755,Timothy Tran,30,Engineer,124229.72,Project1,1973-01-21,Operations,Seattle
+761,Patricia Nelson,58,Consultant,61170.06,Project3,1988-04-22,Operations,Seattle
+763,Cindy Short,41,Manager,74514.03,Project2,1996-08-04,Operations,Seattle
+768,Gregory Murphy,50,Developer,51422.25,Project2,2012-10-19,Operations,Seattle
+769,Ashley Harmon MD,35,Consultant,51027.97,Gamma,2017-10-17,Operations,Seattle
+784,Cynthia Flowers,41,Engineer,121450.84,Gamma,2011-09-28,Operations,Seattle
+785,Jeffrey Armstrong,33,Consultant,71109.37,Project4,1999-04-01,Operations,Seattle
+788,Steven Yoder,52,Manager,129934.3,Project6,1991-09-08,Operations,Seattle
+792,Robert Rivera,36,Analyst,84062.7,Project5,1970-04-13,Operations,Seattle
+793,Valerie Cline,60,Engineer,74714.07,Project5,1993-04-14,Operations,Seattle
+794,Michael White PhD,39,Manager,95268.55,Project6,1994-05-22,Operations,Seattle
+796,Mikayla Thomas,28,Engineer,145534.13,Alpha,1987-12-08,Operations,Seattle
+799,Miguel Myers,47,Engineer,41376.35,Project1,1977-11-26,Operations,Seattle
+801,Dalton Wilson,52,Consultant,41065.47,Delta,2007-02-28,Operations,Seattle
+803,Aaron Young,51,Developer,112887.72,Project1,1977-07-30,Operations,Seattle
+805,Vanessa Costa,55,Consultant,147532.82,Project3,1995-08-18,Operations,Seattle
+806,Teresa Larson,34,Consultant,88633.06,Project5,1982-03-29,Operations,Seattle
+809,Jacob Sullivan,55,Developer,143020.35,Beta,1994-10-21,Operations,Seattle
+815,Brian Strong,44,Engineer,91047.58,Project5,2011-11-30,Operations,Seattle
+824,Nicole Henderson,41,Analyst,122467.96,Project5,2011-03-31,Operations,Seattle
+826,Phillip Huff,36,Manager,68682.82,Project4,1998-05-04,Operations,Seattle
+827,Alan Lopez,56,Consultant,53674.79,Gamma,2009-09-26,Operations,Seattle
+832,Jason Camacho,47,Engineer,129054.71,Project3,2003-03-25,Operations,Seattle
+852,Dustin Rocha,46,Consultant,80514.68,Project4,1970-08-11,Operations,Seattle
+854,Nancy Clark DDS,50,Developer,127857.55,Project3,1998-09-01,Operations,Seattle
+859,James Jacobs,33,Manager,45016.66,Gamma,2018-06-29,Operations,Seattle
+875,Aaron Wilson,50,Manager,40933.91,Project3,2022-10-14,Operations,Seattle
+883,Natalie Brooks,55,Analyst,90487.42,Project1,2004-11-15,Operations,Seattle
+888,Allen Harris,40,Engineer,58939.24,Beta,2019-10-25,Operations,Seattle
+889,Heather Wilson,24,Analyst,52286.13,Project5,2012-10-30,Operations,Seattle
+891,Timothy Johnson,49,Engineer,145630.4,Project6,1991-06-21,Operations,Seattle
+896,Haley Cobb DVM,37,Engineer,81716.14,Project2,2002-10-05,Operations,Seattle
+897,Andrew Martinez,43,Developer,139788.17,Alpha,1999-06-20,Operations,Seattle
+899,Marie Weber,25,Consultant,70176.07,Project5,1980-10-19,Operations,Seattle
+916,Elizabeth Contreras,52,Manager,44210.45,Gamma,1996-02-07,Operations,Seattle
+918,Debra Nelson,40,Analyst,143301.23,Alpha,2001-05-20,Operations,Seattle
+948,Leslie Hunter,37,Manager,49973.11,Omega,2006-10-03,Operations,Seattle
+960,Danny Cannon,26,Developer,137071.77,Project1,2014-05-02,Operations,Seattle
+969,Jean Atkinson MD,57,Analyst,140961.15,Delta,1987-02-26,Operations,Seattle
+970,John Brown,44,Analyst,97362.78,Project1,1994-01-28,Operations,Seattle
+972,Joy Vaughn,33,Consultant,141356.34,Project2,1980-07-07,Operations,Seattle
+991,Justin Perry,40,Manager,138146.26,Alpha,1989-08-12,Operations,Seattle
+995,Kelli Henry,44,Engineer,80027.67,Project1,1976-11-17,Operations,Seattle
+999,David Abbott,28,Engineer,139246.03,Project4,1976-07-13,Operations,Seattle

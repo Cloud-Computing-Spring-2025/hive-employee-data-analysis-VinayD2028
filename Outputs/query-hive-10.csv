@@ -1,0 +1,17 @@
+ranked.emp_id,ranked.name,ranked.salary,ranked.department,ranked.rank
+722,Robert Roy,149413.78,Finance,1
+959,Edward Simpson,147764.44,Finance,2
+113,Robert Salazar,147726.76,Finance,3
+227,Lisa Richards,149610.66,HR,1
+523,Richard Palmer,149305.22,HR,2
+717,Valerie Hooper,149178.56,HR,3
+949,Bailey Harmon,149195.28,IT,1
+9,Heather James,148601.89,IT,2
+397,Kyle Gibson,148476.87,IT,3
+594,Eileen Alvarez,148153.57,Marketing,1
+305,Mr. Bernard Boyd,147119.6,Marketing,2
+675,Susan Schmidt,147083.37,Marketing,3
+724,Kelly Bradford,149587.7,Operations,1
+420,Vanessa Vasquez,149392.46,Operations,2
+542,Jenny Miller,148813.68,Operations,3
+NULL,name,NULL,department,1
