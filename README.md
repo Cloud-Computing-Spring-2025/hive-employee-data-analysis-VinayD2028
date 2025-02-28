@@ -91,7 +91,6 @@ Ensure you have access to GitHub Codespaces open in visual studio code and the r
             STORED AS PARQUET;
 
    ## The command to load data is as follows:
-        ```sql 
             SET hive.exec.dynamic.partition.mode=nonstrict;
             INSERT INTO TABLE employees PARTITION (department)
             SELECT emp_id, name, age, job_role, salary, project, join_date, department FROM temp_employees;
@@ -115,16 +114,16 @@ Ensure you have access to GitHub Codespaces open in visual studio code and the r
             SELECT department, COUNT(*) AS emp_count FROM employees GROUP BY department ORDER BY emp_count DESC LIMIT 1;
     output is in file named: query-hive-6.csv
     ### l. Check for employees with null values in any column and exclude them from analysis.
-            SELECT * FROM employees WHERE emp_id IS NOT NULL AND name IS NOT NULL;
+            SELECT * FROM employees WHERE emp_id IS NOT NULL AND name IS NOT NULL AND age IS NOT NULL and job_role IS NOT NULL and salary IS NOT NULL and project is NOT NULL and join_date IS NOT NULL and department is NOT NULL;
     output is in file named: query-hive-7.csv
     ### m. Join the employees and departments tables to display employee details along with department locations.
-            SELECT e.*, d.location FROM employees e JOIN departments d ON e.department = d.department_name;
+            SELECT e.*, d.location FROM employees e JOIN departments d ON e.department = d.department_name WHERE e.emp_id IN(SELECT emp_id FROM employees WHERE emp_id IS NOT NULL AND name IS NOT NULL AND age IS NOT NULL and job_role IS NOT NULL and salary IS NOT NULL and project is NOT NULL and join_date IS NOT NULL and department is NOT NULL);
     output is in file named: query-hive-8.csv
     ### n. Rank employees within each department based on salary.
-            SELECT emp_id, name, salary, department, RANK() OVER (PARTITION BY department ORDER BY salary DESC) AS rank FROM employees;
+            SELECT emp_id, name, salary, department, RANK() OVER (PARTITION BY department ORDER BY salary DESC) AS rank FROM employees where emp_id IN(SELECT emp_id FROM employees WHERE emp_id IS NOT NULL AND name IS NOT NULL AND age IS NOT NULL and job_role IS NOT NULL and salary IS NOT NULL and project is NOT NULL and join_date IS NOT NULL and department is NOT NULL);
     output is in file named: query-hive-9.csv
     ### o. Find the top 3 highest-paid employees in each department.
-            SELECT * FROM ( SELECT emp_id, name, salary, department, RANK() OVER (PARTITION BY department ORDER BY salary DESC) AS rank FROM employees) ranked WHERE rank <= 3;
+            SELECT * FROM ( SELECT emp_id, name, salary, department, RANK() OVER (PARTITION BY department ORDER BY salary DESC) AS rank FROM employees) ranked WHERE rank <= 3 AND emp_id IN(SELECT emp_id FROM employees WHERE emp_id IS NOT NULL AND name IS NOT NULL AND age IS NOT NULL and job_role IS NOT NULL and salary IS NOT NULL and project is NOT NULL and join_date IS NOT NULL and department is NOT NULL);
    output is in file named: query-hive-10.csv
 9. After running the queries you can download the outputs as csv files and import them into out repositories on HUE web terminal.
 10. Push the changes into the Github classroom.

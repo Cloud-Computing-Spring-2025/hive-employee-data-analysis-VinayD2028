@@ -14,4 +14,3 @@ ranked.emp_id,ranked.name,ranked.salary,ranked.department,ranked.rank
 724,Kelly Bradford,149587.7,Operations,1
 420,Vanessa Vasquez,149392.46,Operations,2
 542,Jenny Miller,148813.68,Operations,3
-NULL,name,NULL,department,1

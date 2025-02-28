@@ -999,4 +999,3 @@ emp_id,name,salary,department,rank
 799,Miguel Myers,41376.35,Operations,183
 801,Dalton Wilson,41065.47,Operations,184
 875,Aaron Wilson,40933.91,Operations,185
-NULL,name,NULL,department,1

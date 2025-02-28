@@ -59,16 +59,10 @@ WHERE e.salary > d.avg_salary;
 
 SELECT department, COUNT(*) AS emp_count FROM employees GROUP BY department ORDER BY emp_count DESC LIMIT 1;
 
-SELECT * FROM employees WHERE emp_id IS NOT NULL AND name IS NOT NULL;
+SELECT * FROM employees WHERE emp_id IS NOT NULL AND name IS NOT NULL AND age IS NOT NULL and job_role IS NOT NULL and salary IS NOT NULL and project is NOT NULL and join_date IS NOT NULL and department is NOT NULL;
 
-SELECT e.*, d.location FROM employees e JOIN departments d ON e.department = d.department_name;
+SELECT e.*, d.location FROM employees e JOIN departments d ON e.department = d.department_name WHERE e.emp_id IN(SELECT emp_id FROM employees WHERE emp_id IS NOT NULL AND name IS NOT NULL AND age IS NOT NULL and job_role IS NOT NULL and salary IS NOT NULL and project is NOT NULL and join_date IS NOT NULL and department is NOT NULL);
 
-SELECT emp_id, name, salary, department,
-       RANK() OVER (PARTITION BY department ORDER BY salary DESC) AS rank
-FROM employees;
+SELECT emp_id, name, salary, department, RANK() OVER (PARTITION BY department ORDER BY salary DESC) AS rank FROM employees where emp_id IN(SELECT emp_id FROM employees WHERE emp_id IS NOT NULL AND name IS NOT NULL AND age IS NOT NULL and job_role IS NOT NULL and salary IS NOT NULL and project is NOT NULL and join_date IS NOT NULL and department is NOT NULL);
 
-SELECT * FROM (
-    SELECT emp_id, name, salary, department,
-           RANK() OVER (PARTITION BY department ORDER BY salary DESC) AS rank
-    FROM employees
-) ranked WHERE rank <= 3;
+SELECT * FROM ( SELECT emp_id, name, salary, department, RANK() OVER (PARTITION BY department ORDER BY salary DESC) AS rank FROM employees) ranked WHERE rank <= 3 AND emp_id IN(SELECT emp_id FROM employees WHERE emp_id IS NOT NULL AND name IS NOT NULL AND age IS NOT NULL and job_role IS NOT NULL and salary IS NOT NULL and project is NOT NULL and join_date IS NOT NULL and department is NOT NULL);
